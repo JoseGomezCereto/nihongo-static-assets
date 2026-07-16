@@ -1,0 +1,79 @@
+{
+  "id": 0,
+  "title": "Lección 0, Saludos",
+  "completed": false,
+  "courseId": 1,
+  "sections": [
+    {
+      "id": 1,
+      "title": "Introducción",
+      "completed": false,
+      "content": [
+        {
+          "text": "¡Bienvenido, estudiante! ようこそ！\n\nEstos son tus primeros pasos en el idioma japonés. Seguramente creas que necesitarás muchos años de dedicación y estudio para alcanzar un nivel básico, comprender todos esos símbolos extraños y también habrás leído por internet que hablamos de uno de los “idiomas más difíciles del mundo”. Bueno, eso es una verdad a medias.\n\nLo que estás leyendo es el esfuerzo de un apasionado de Japón, del japonés y su cultura. Todo el conocimiento que he acumulado a lo largo de los años condensado en una fantástica aventura. Este proyecto, que bauticé Nihon GO! (un juego de palabras entre Nihon (Japón) y GO (Ir en inglés) que combinado suena como Nihongo (idioma japonés)), no es muy diferente de otros métodos, pero está más centrado en que tu comunicación sea lo más fluida posible y sin agobios.\n\nEl objetivo es guiarte a través del vocabulario, la gramática y los kanjis, un proceso que puede ser lento, algo largo y a veces difícil y frustrante, pero no te desanimes. Si lo miras por el lado positivo, ya sabes hablar al menos un idioma. Y quizá hasta dos, si aprendiste inglés en el colegio, así que lo más difícil ya lo tienes. ¿Qué tal si ahora cambiamos un poco el registro?",
+          "image": "bienvenida.jpg"
+        },
+        {
+          "text": "Antes de empezar, me gustaría hablarte de un tema importante: el acento tonal japonés. ¿Qué diablos es esto y por qué debería importarme?\n\nEn resumen, es la forma de pronunciar las palabras, que se componen de tonos altos y bajos. Aunque la grandísima mayoría de libros de texto o métodos de japonés (incluso en Japón) lo ignoran, dominarlo facilita que te entiendan y es lo que diferencia a un buen hablante de un principiante.\n\nPor eso usaremos un diccionario fonológico llamado JAccent. Se encuentra disponible de forma gratuita para Android e iOS, es completamente offline (no requiere conexión) y dispone de audios para escuchar la pronunciación real. Yo lo uso en mi teléfono móvil y en mi Macbook. Además, soporta kanji, silabarios y letras latinas. Una maravilla.\n\nEl “pitch accent” o acento tonal no es estrictamente obligatorio. Al contrario que en el mandarín, si te esfuerzas por imitar los sonidos, aunque el acento no sea perfecto, te entenderán. Pero hacer un pequeño esfuerzo ahora tendrá su recompensa, ya que acostumbrarnos a buscar palabras, tratar de pronunciarlas bien y usar el diccionario fonético es vital para mejorar nuestra pronunciación. Ver animación, series o películas en versión original también ayuda mucho.\n\nUn ejemplo que me gusta mucho para ilustrar esto es la diferencia tonal entre “lluvia” y “caramelo”. Aunque la palabra es, a priori, la misma: あめ (ame). Como ves, el kanji cambia, que es lo que nos indica por escrito de qué hablamos. Para “lluvia” pronunciaremos Ame, mientras que para “caramelo” será aME. Búscalo en JAccent y verás la diferencia en poco tiempo.\n\nY eso es todo. En la primera lección veremos saludos y palabras muy comunes y muy útiles. ¡Vamos!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Sistemas de Escritura",
+      "completed": false,
+      "content": [
+        {
+          "text": "Como seguramente sabrás, hay tres sistemas de escritura en japonés: hiragana, katakana y los kanjis (ideogramas chinos). Aunque no te asustes, de los casi 45.000 kanjis que existen, apenas se usan 2.000 en la vida cotidiana, que es lo que se exige para alcanzar el nivel N1 (C1). ¿Ves como no era para tanto?\n\nEn esta frase podemos ver cómo interactúan:\nテレビを見ます (Terebi wo mimasu) - Veo la televisión.\n\nEl hiragana y el katakana funcionan como un alfabeto; es decir, representan sonidos. Cada sílaba es un sonido, llamado “mora”. Por ejemplo, en “mi-ma-su” tenemos tres moras. En el caso de “kyoto”, al escribirse con dos vocales largas, tenemos “kyo-u-to-u”, por lo que serían cinco moras. No hace falta que te obsesiones con esto, pero es conveniente que te suene.",
+          "image": "sistemas_escritura.jpg"
+        },
+        {
+          "text": "Las sílabas básicas de hiragana son 46. Una vez las memorices, podrás transcribir cualquier sonido del japonés. ¿Fácil, verdad?\n\nAdemás, existen otros 23 sonidos adicionales mediante marcas diacríticas: si añadimos unas “diagonales”, las consonantes K, S, T y H se convierten en G, Z, D y B. En el caso de la H, al añadir un pequeño círculo (º) cambia al sonido P.\nEjemplos: が ぎ ぐ げ ご y ぱ ぴ ぷ ぺ ぽ.\n\nLos dos últimos grupos serán los sonidos contraídos (como el famoso “NYA” de los gatos) y las consonantes dobles. Para los sonidos contraídos, usamos la consonante que queramos más un pequeño Ya, Yu o Yo. Para las consonantes dobles, como en Katta (gané), usamos un pequeño Tsu (っ) entre las sílabas. ¡No querrás confundir “ganar” con el “hombro” (kata) de alguien!\nかった (Katta) frente a かた (Kata).",
+          "image": "hiragana.jpg"
+        },
+        {
+          "text": "El katakana funciona exactamente igual que el hiragana: mismos sonidos, ¡solo cambia la forma de escribirse! Se utiliza principalmente para palabras extranjeras (como コーヒー - koohii, café), nombres propios, onomatopeyas o para enfatizar. Aunque parezca intimidante aprender dos silabarios, piénsalo así: ya conoces los sonidos, solo tienes que asociar nuevos símbolos. ¡Es como aprender una segunda caligrafía!\n\nカタカナ ワ タノシイ デス！ (¡El katakana es divertido!)",
+          "image": "katakana.jpg"
+        },
+        {
+          "text": "Por último, las vocales largas se hacen duplicando la vocal: Obaasan (abuela), suuji (número), eiga (película) o el conocido sensei (profesor).\n\nCuando se duplica una O se usa una U (Toukyou = Tookyoo), y cuando se duplica una E se usa una I (como en eiga o sensei, que se pronuncian eega y sensee). Presta atención al escuchar, porque a veces las vocales i y u se vuelven mudas junto a k, s, t, p y h. Por ejemplo, “Me gusta” (suki desu) suena algo así como “skides”.\n\nEn katakana, la vocal larga se marca simplemente con el símbolo ー. Por ejemplo: コーヒー (coffee) o ゲーム (game).\n\nPara aprender los silabarios en tiempo récord, te recomiendo un método de repetición espaciada durante dos semanas. No necesitas más de 20 minutos al día. Empezaremos por bloques: el día 1 con あいうえお. Escribe cada carácter unas 10 veces. Al día siguiente, antes de aprender el bloque かきくけこ, intenta escribir el anterior SIN MIRAR. Si te equivocas, repítelo otras 10 veces antes de seguir. A medida que avancen los días, acumula los bloques anteriores. En unos 10 días habrás cubierto los 46 básicos. Mi recomendación es escribir y leer todo lo posible, aunque al principio no entiendas nada; el objetivo es naturalizar los sonidos."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Saludos",
+      "completed": false,
+      "content": [
+        {
+          "text": "Aquí veremos pequeñas expresiones para saludar, despedirse o dar las gracias. Serán tus primeras palabras, así que vamos a ello:",
+          "image": "saludo_general.jpg"
+        },
+        {
+          "text": "Antes de nada, te recomiendo buscar cada palabra en JAccent para escuchar su pronunciación.\n\nEmpezamos con las formas cortas: Ohayou (buenos días) y Arigatou (gracias). Estas se usan entre amigos y familia. La forma larga, Ohayougozaimasu, se usa con conocidos o personas con las que hay menos confianza. La regla de oro es: si ya puedes llamar a alguien por su nombre de pila, usa la forma corta. Si sientes que debes usar “Señor” o “Señora”, usa la forma larga.\n\nSobre Sayounara: existen muchas formas de decir adiós, pero esta suena muy dramática y definitiva, como si no fueras a ver a la persona en mucho tiempo. En el día a día se usa poco, principalmente por niños despidiéndose de sus profesores. Entre amigos es más común decir:\n・じゃあ、また。 (Jaa, mata) - Bueno, nos vemos.\n・しつれいします。 (Shitsureishimasu) - Perdón por la intromisión."
+        },
+        {
+          "text": "Esta se usa al salir de una oficina, por ejemplo. Aunque literalmente significa “estoy siendo grosero”, es la forma educada de disculparse por interrumpir. También existe Osaki ni shitsureishimasu (discúlpeme por irme antes), que usarás para salir de la oficina o de un sitio antes que otros.\n\nOyasumi (descanso) y Oyasuminasai (que descanses) se dicen únicamente al ir a dormir. Sumimasen es una palabra comodín: sirve para llamar la atención, pedir disculpas o incluso agradecer algo. Iie significa “no”, pero también se usa para decir “de nada” o “ni lo menciones”, expresando que no hace falta agradecer."
+        },
+        {
+          "text": "Itterashai, Ittekimasu, Tadaima y Okaerinasai son expresiones familiares: “que te vaya bien”, “me voy”, “ya estoy en casa” y “bienvenido a casa”. Es muy común escucharlas en el ámbito doméstico. Cuando alguien se va, dirá Ittekimasu, se le responderá Itterashai. Cuando vuelva dirá Tadaima, y se le responderá Okaerinasai. De nuevo, Okaeri es la forma corta, mucho más coloquial."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Un vistazo a la cultura",
+      "completed": false,
+      "content": [
+        {
+          "text": "あいさつ と おじぎ (Saludos y Reverencias).\n\nLos japoneses se saludan con una reverencia que expresa respeto, gratitud o disculpas. Hay muchas formas, desde una inclinación leve de cabeza hasta una inclinación de 45º doblando la cintura. Cuanto más larga y profunda, más formal. Aunque tradicionalmente son incómodos con el contacto físico, dar la mano se ha vuelto común en negocios con extranjeros.",
+          "image": "reverencia.jpg"
+        },
+        {
+          "text": "Además, cuando te presentan a alguien en un entorno profesional, se intercambian las 名詞 (meishi) o tarjetas de visita con una pequeña reverencia. Lo más importante es mostrarlas y recogerlas con ambas manos, señal de respeto mutuo.",
+          "image": "tarjeta_visita.jpg"
+        }
+      ]
+    }
+  ]
+}
