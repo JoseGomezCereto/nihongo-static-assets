@@ -1,0 +1,20 @@
+{
+  "manifest_version": 1,
+  "files": {
+    "c1-l0-v10": "main/n5/gramatica/c1-l0-v10.json",
+    "c1-l1-v10": "main/n5/gramatica/c1-l1-v10.json",
+    "c1-l2-v10": "main/n5/gramatica/c1-l2-v10.json",
+    "c1-l3-v10": "main/n5/gramatica/c1-l3-v10.json",
+    "c1-l4-v10": "main/n5/gramatica/c1-l4-v10.json",
+    "c1-l5-v10": "main/n5/gramatica/c1-l5-v10.json",
+    "c1-l6-v10": "main/n5/gramatica/c1-l6-v10.json",
+    "c1-l7-v10": "main/n5/gramatica/c1-l7-v10.json",
+    "c1-l8-v10": "main/n5/gramatica/c1-l8-v10.json",
+    "c1-l9-v10": "main/n5/gramatica/c1-l9-v10.json",
+    "c1-l10-v10": "main/n5/gramatica/c1-l10-v10.json",
+    "c1-l11-v10": "main/n5/gramatica/c1-l11-v10.json",
+    "c1-l12-v10": "main/n5/gramatica/c1-l12-v10.json",
+    "vocabulario_n5": "main/n5/vocabulario/vocabulario.json",
+    "kanji_n5": "main/n5/kanji/kanji.json"
+  }
+}
