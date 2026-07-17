@@ -1,0 +1,213 @@
+﻿{
+    "id":  8,
+    "title":  "Lección 8: Asado al aire libre",
+    "completed":  false,
+    "courseId":  1,
+    "sections":  [
+                     {
+                         "id":  67,
+                         "title":  "Diálogo",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "I) En clase.",
+                                             "image":  "barbacoa_clase.jpg"
+                                         },
+                                         {
+                                             "text":  "アナ：ケンジ、あしたみんなで外(そと)でアサードをしませんか。\nケンジ：アサード？いいですね。だれが来(き)ますか。\nアナ：ルシアとカルロスが来(き)ます。カルロスが肉(にく)を焼(や)くと言(い)っていました。\nケンジ：すずきさんは？\nアナ：すずきさんはアルバイトがあると言(い)っていました。\nケンジ：残念(ざんねん)ですね。何(なに)か持(も)っていきましょうか。\nアナ：何(なに)もいらないと思(おも)います。"
+                                         },
+                                         {
+                                             "text":  "Ana: Kenji, ¿qué tal si mañana hacemos un asado al aire libre todos juntos?\nKenji: ¿Asado? ¡Me parece bien! ¿Quién va a venir?\nAna: Vendrán Lucía y Carlos. Carlos dijo que él preparará la carne.\nAna: ¿Y Suzuki?\nKenji: Suzuki dijo que tenía un trabajo de medio tiempo.\nAna: Qué pena. ¿Llevamos algo?\nKenji: Creo que no hace falta nada."
+                                         },
+                                         {
+                                             "text":  "\n\n----------------------------------------\n\n"
+                                         },
+                                         {
+                                             "text":  "II) Carlos cocina el asado al aire libre.",
+                                             "image":  "barbacoa_cocina.jpg"
+                                         },
+                                         {
+                                             "text":  "アナ：上手(じょうず)ですね。カルロス、料理(りょうり)をするのが好(す)きですか。\nカルロス：ええ、よく作(つく)ります。準備(じゅんび)はできましたよ。\nアナ：何(なに)か手伝(てつだ)いましょうか。\nカルロス：じゃあ、トマトを切(き)ってください。\n\nカルロス：そろそろ始(はじ)めましょうか。\nアナ：あっ、まだ飲(の)まないでください。ルシアも来(く)ると言(い)っていましたから。\nルシア：ごめん、遅(おそ)くなって。\nみんな：じゃあ、乾杯(かんぱい)！"
+                                         },
+                                         {
+                                             "text":  "Ana: ¡Qué bien se te da! Carlos, ¿te gusta cocinar?\nCarlos: Sí, suelo cocinar a menudo. Ya está todo preparado.\nAna: ¿Quieres que te ayude con algo?\nCarlos: Entonces, por favor, corta los tomates.\n\nCarlos: ¿Empezamos ya?\nAna: ¡Ah, no bebáis todavía! Dijo que Lucía también vendría.\nLucía: Perdón por llegar tarde.\nTodos: ¡Entonces, a brindar!"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  68,
+                         "title":  "Formas cortas",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Las formas cortas (también llamadas \u0027forma diccionario\u0027, \u0027informal\u0027 o \u0027directa\u0027) se usan en conversaciones cotidianas, citas, pensamientos y cuando citamos lo que alguien ha dicho. Son la base para muchas estructuras gramaticales en japonés."
+                                         },
+                                         {
+                                             "text":  "Comparación entre formas largas y cortas:\n\nPresente afirmativo:\n- Verbo: 読(よ)む (forma corta) / 読(よ)みます (forma larga)\n- Adjetivo い: かわいい (forma corta) / かわいいです (forma larga)\n- Adjetivo な: 静(しず)かだ (forma corta) / 静(しず)かです (forma larga)\n- Sustantivo + です: 学生(がくせい)だ (forma corta) / 学生(がくせい)です (forma larga)\n\nPresente negativo:\n- Verbo: 読(よ)まない (forma corta) / 読(よ)みません (forma larga)\n- Adjetivo い: かわいくない (forma corta) / かわいくないです (forma larga)\n- Adjetivo な: 静(しず)かじゃない (forma corta) / 静(しず)かじゃないです (forma larga)\n- Sustantivo + です: 学生(がくせい)じゃない (forma corta) / 学生(がくせい)じゃないです (forma larga)"
+                                         },
+                                         {
+                                             "text":  "Reglas básicas:\n- Los verbos y adjetivos い en afirmativo usan la forma diccionario.\n- Los adjetivos な y los sustantivos en afirmativo cambian です por だ.\n- En negativo, se usa ない y se elimina です."
+                                         },
+                                         {
+                                             "text":  "Ejemplos de conjugación negativa:\n- 食(た)べる → 食(た)べない\n- 書(か)く → 書(か)かない\n- 話(はな)す → 話(はな)さない\n- 待(ま)つ → 待(ま)たない\n- 死(し)ぬ → 死(し)なない\n- 読(よ)む → 読(よ)まない\n- する → しない\n- くる → こない\n- ある → ない"
+                                         },
+                                         {
+                                             "text":  "Las formas cortas se usan en:\n• Conversaciones informales y entre amigos\n• Pensamientos y citas indirectas (por ejemplo: \u0027creo que...\u0027)\n• Peticiones negativas (\u0027por favor, no...\u0027)\n• Expresar gustos y habilidades (\u0027me gusta hacer...\u0027)"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  69,
+                         "title":  "Lenguaje informal",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "En japonés, las formas cortas se usan entre amigos, familiares o personas de confianza. Usar la forma larga (con です/ます) implica distancia o respeto, como cuando hablas con profesores o desconocidos."
+                                         },
+                                         {
+                                             "text":  "En conversaciones informales:\n- Las preguntas no terminan con la partícula か, solo se usa la entonación:\nどんな音楽(おんがく)を聞(き)く？\n¿Qué tipo de música escuchas?\n\nEn vez de:\nどんな音楽(おんがく)を聞(き)きますか。"
+                                         },
+                                         {
+                                             "text":  "La terminación だ de los adjetivos な y de sustantivos suele omitirse al final de la frase, o se añade ね o よ:\nルシアさんは二年生(にねんせい)。\nO bien:\nルシアさんは二年生(にねんせい)だよ。\n(Más natural que: ルシアさんは二年生(にねんせい)だ。)"
+                                         },
+                                         {
+                                             "text":  "En conversaciones casuales, はい y いいえ se reemplazan por las formas informales うん y うuum."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  70,
+                         "title":  "〜と思(おも)います / 〜と言(い)っていました",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para expresar lo que piensas o lo que alguien ha dicho, se usa la forma corta del verbo/adjetivo + と + 思(おモ)います (creo que...) o + と + 言(い)っていました (dijo que...)."
+                                         },
+                                         {
+                                             "text":  "Ejemplo de cita indirecta:\nアナさんは、あした試験(しけん)があると言(い)っていました。\nAna dijo que mañana hay examen."
+                                         },
+                                         {
+                                             "text":  "Ejemplo de pensamiento:\n(私(わたし)は) ケンジさんはルシアさんが好(す)きだと思(おも)います。\nCreo que a Kenji le gusta Lucía."
+                                         },
+                                         {
+                                             "text":  "Para negar lo que piensas, se usa la forma negativa + と思(おも)います:\n(私(わたし)は) ルシアさんはケンジさんが好(す)きじゃないと思(おも)います。\nCreo que a Lucía no le gusta Kenji."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  71,
+                         "title":  "〜ないでください",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para pedir que alguien no haga algo, usa la forma negativa corta del verbo + でください.\n\nEstructura: [verbo en forma negativa corta] + でください"
+                                         },
+                                         {
+                                             "text":  "Ejemplo:\nここで写真(しゃしん)を撮(と)らないでください。\nPor favor, no saque fotos aquí."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  72,
+                         "title":  "Verbo + のgあ好(す)きです",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para expresar que te gusta hacer una actividad, usa el verbo en forma corta + のが + 好(す)きです.\n\nEstructura: [verbo en forma corta] + のgあ + 好(す)きです"
+                                         },
+                                         {
+                                             "text":  "Ejemplo:\n私(わたし)は日本語(にほんご)を勉強(べんきょう)するのが好(す)きです。\nMe gusta estudiar japonés."
+                                         },
+                                         {
+                                             "text":  "Para decir que no te gusta hacer algo:\n私は部屋(へや)を掃除(そうじ)するのがきらいです。\nNo me gusta limpiar mi habitación."
+                                         },
+                                         {
+                                             "text":  "Para expresar habilidad o dificultad:\nカルロスさんは料理(りょうり)を作(つく)るのが上手(じょうず)です。\nCarlos es bueno cocinando.\n\nケンジさんは英語(えいご)を話(はな)すのが下手(へた)です。\nKenji no es bueno hablando inglés."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  73,
+                         "title":  "Partícula が",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La partícula が se usa para marcar el sujeto de una oración, especialmente cuando se introduce nueva información o se responde a una pregunta como \u0027¿quién?\u0027 o \u0027qué?\u0027."
+                                         },
+                                         {
+                                             "text":  "Ejemplo:\nカルロスさんが沖縄(おきなわ)に行(い)きました。\nCarlos fue a Okinawa."
+                                         },
+                                         {
+                                             "text":  "Si la pregunta es:\nだれが沖縄(おきなわ)に行(い)きましたか。\n¿Quién fue a Okinawa?\nLa respuesta también lleva が:\nカルロスさんが沖縄(おきなわ)に行(い)きました。"
+                                         },
+                                         {
+                                             "text":  "Otros ejemplos:\nどのクラスが一番(いちばん)おもしろいですか。\n¿Cuál clase es la más interesante?\n\n日本語(にほんご)のクラスが一番(いちばん)おもしろいです。\nLa clase de japonés es la más interesante."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  74,
+                         "title":  "何(なに)か y 何(なに)も",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "何(なに)か significa \u0027algo\u0027 o \u0027alguna cosa\u0027 y se usa en frases afirmativas y preguntas. 何(なに)も significa \u0027nada\u0027 y se usa en frases negativas."
+                                         },
+                                         {
+                                             "text":  "Ejemplo afirmativo:\n猫(ねこ)が何(なに)か持(も)ってきました。\nEl gato ha traído algo."
+                                         },
+                                         {
+                                             "text":  "Ejemplo pregunta:\n猫(ねこ)は何(なに)か食(た)べましたか。\n¿El gato comió algo?"
+                                         },
+                                         {
+                                             "text":  "Ejemplo negativo:\nいいえ、猫(ねこ)は何(なに)も食(た)べませんでした。\nNo, el gato no comió nada."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  75,
+                         "title":  "Expresiones Útiles",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Muchos verbos irregulares en japonés son combinaciones de un sustantivo y el verbo する (hacer). Si aprendes el verbo, también aprendes el sustantivo relacionado."
+                                         },
+                                         {
+                                             "text":  "Ejemplos:\n- 勉強(べんきょう)する: estudiar\n- 勉強(べんきょう): estudio\n- 料理(りょうり)する: cocinar\n- 料理(りょうり): cocina"
+                                         },
+                                         {
+                                             "text":  "Puedes usar estos sustantivos como objeto del verbo する:\n私(わたし)は日本語(にほんご) de 勉強(べんきょう) をしました。\nEstudié japonés."
+                                         },
+                                         {
+                                             "text":  "Para expresar gustos, añade の a la forma verbal:\n日本語(にほんご)の勉強(べんきょう)が好(す)きです。\nMe gusta el estudio de japonés.\n日本語(にほんご)を勉強(べんきょう)するのが好(す)きです。\nMe gusta estudiar japonés."
+                                         },
+                                         {
+                                             "text":  "Deseo y decisión (JLPT N5):\n\n1) 〜がほしい\nSe usa con sustantivos para decir que quieres algo.\n\n新(あたら)しいノートがほしいです。\nQuiero un cuaderno nuevo.\n\n2) 〜にする\nSe usa para decidir entre opciones (\"me quedo con...\").\n\nジュースにします。\nMe quedo con un zumo.\n\nこの青(あお)いシャツにします。\nElijo esta camisa azul."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  76,
+                         "title":  "Un vistazo a la cultura",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Una comida tradicional japonesa consiste en un bol de arroz blanco (ご飯・ごはん), un par de platos (おかず) y sopa (a menudo みそ汁・みそしる). En cafeterías se llama 定食 (ていしょく). Sin embargo, muchos japonais no comen siempre comida tradicional. Se sirve gran variedad de comida en restaurantes e incluso en casa, ya que Japón ha adoptado y adaptado muchos platos extranjeros con el tiempo.",
+                                             "image":  "comida_japonesa_tradicional.jpg"
+                                         },
+                                         {
+                                             "text":  "Platos comunes en Japón:\n\nカレーライス - Curry con arroz\nえびフライ - Camarones empanados\nラーメン - Fideos ramen\nうどん - Fideos udon\nスパゲッティ - Espaguetis\nぎょうざ - Empanadillas\n牛丼 (ぎゅうどん) - Bol de arroz con carne\nハンバーグ - Hamburguesa estilo japonés\nさしみ - Pescado crudo\nお好み焼き - Tortilla japonesa",
+                                             "image":  "platos_japoneses_variados.jpg"
+                                         },
+                                         {
+                                             "text":  "Variaciones en la presentación gastronómica actual.",
+                                             "image":  "platos_japoneses_variados_2.jpg"
+                                         },
+                                         {
+                                             "text":  "¿Qué desayunaron すずき (20歳) y 山本先生 (47歳) hoy?\n\nすずき: トースト、スープ、ヨーグルト\nTostada, sopa y yogur\n\n山本先生: ご飯、焼き魚、たまご、みそ汁\nArroz, pescado asado, huevo y sopa de miso\n\nComo ves, el desayuno japonés puede ser occidental o tradicional según la persona y la ocasión.",
+                                             "image":  "desayunos_japoneses.jpg"
+                                         }
+                                     ]
+                     }
+                 ]
+}

@@ -1,0 +1,103 @@
+﻿{
+    "id":  1,
+    "title":  "Lección 1: ¡Mucho gusto! Identidad y Supervivencia",
+    "completed":  false,
+    "courseId":  1,
+    "sections":  [
+                     {
+                         "id":  5,
+                         "title":  "Dialogo",
+                         "content":  [
+                                         {
+                                             "text":  "Lucía se pierde por los pasillos de la academia buscando el aula de japonés y se encuentra con Kenji, quien va de camino a su clase de programación.",
+                                             "image":  "dialogo_campus.jpg"
+                                         },
+                                         {
+                                             "text":  "ルシア：すみません。日本語(にほんご)の クラスは どこですか。\nケンジ：ああ、日本語(にほんご)？ 三百二号室(さんびゃくにごうしつ) ですよ。\nルシア：ありがとうございます。わたしは ルシアです。日本語(にほんご)の 学生(がくせい) です。\nケンジ：はじめまして、ルシアさん。ケンジです。ぼくは プログラミングの 学生(がくせい) です。\n\nLucía: Disculpa. ¿Dónde es la clase de japonés?\nKenji: Ah, ¿japonés? Es en la sala 302.\nLucía: Muchas gracias. Soy Lucía. Soy estudiante de japonés.\nKenji: Encantado, Lucía-san. Soy Kenji. Soy estudiante de programación."
+                                         },
+                                         {
+                                             "text":  "ケンジ：ルシアさんは 何年生(なんねんせい)ですか。\nルシア：一年生(いちねんせい)です。ケンジさんは？\nケンジ：ぼくは 二年生(にねんせい)です。龍(たつき)先生(せんせい)の クラスは 厳(きび)しいですよ。\nルシア：えっ、そうですか。がんばります！\n\nKenji: ¿En qué año estás, Lucía-san?\nLucía: Estoy en primer año. ¿Y tú, Kenji-san?\nKenji: Estoy en segundo año. La clase de Tatsuki-sensei es estricta.\nLucía: ¿Ah, sí? ¡Me esforzaré!"
+                                         },
+                                         {
+                                             "text":  "RECUERDA\nPalabras como “sensei” (profesor), “gakusei” (estudiante), etc. llevan vocal larga, por lo que se pronuncian como “sensee”, “gakusee”, etc. También ocurre con “sou” (soo), etc.\nLa partícula “wa” (tema) se escribe は (ha) pero se pronuncia “wa”. Lo mismo ocurre con を (wo), que se pronuncia “o”."
+                                         }
+                                     ],
+                         "completed":  false
+                     },
+                     {
+                         "id":  6,
+                         "title":  "El verbo ser y el tema: (2) だ / です y (79) は",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para decir que algo \u0027es\u0027 algo en un registro educado usamos です (desu). Su versión informal es だ (da). La partícula は (wa) marca el tema de la frase."
+                                         },
+                                         {
+                                             "text":  "わたしはルシアです。\nYo soy Lucía (En cuanto a mí, soy Lucía).\n\n日本人です。\nSoy japonés (el sujeto se omite por contexto)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  7,
+                         "title":  "Negación y Preguntas: (20) じゃない / ではない y (21) か",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para negar usamos じゃないです (informal: じゃない). La forma ではない es más formal. Para preguntar se añade か al final."
+                                         },
+                                         {
+                                             "text":  "コンピューターの学生じゃないです。\nNo soy estudiante de informática.\n\n学生ですか。\n¿Eres estudiante?"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  8,
+                         "title":  "Acción, Conexión y Ubicación: (60) を, (52) の y (48) に",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "を marca el objeto directo. の conecta sustantivos. に indica ubicación o dirección básica."
+                                         },
+                                         {
+                                             "text":  "日本語を勉強します。\nEstudio japonés.\n\nコンピューターの学生。\nEstudiante de informática.\n\n東京の学校にいます。\nEstoy en una escuela de Tokio."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  9,
+                         "title":  "Un vistazo a la cultura",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Nombres y presentaciones en Japón.\nEl apellido va antes del nombre. La cortesía es fundamental en interacciones sociales.",
+                                             "image":  "nombres_japoneses.jpg"
+                                         },
+                                         {
+                                             "text":  "Kenji usa 僕 (boku) y Lucía usa わたし (watashi). El uso correcto de registros es importante.",
+                                             "image":  "tabla_nombres_japoneses.jpg"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  10,
+                         "title":  "Expresiones Útiles",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Números básicos para el día a día.",
+                                             "image":  "numeros.png"
+                                         },
+                                         {
+                                             "text":  "Minutos:\n\n一分(いっぷん) - 1 minuto\n二分(にふん) - 2 minutos\n三分(さんぷん) - 3 minutos\n四分(よんぷん) - 4 minutos\n五分(ごふん) - 5 minutos\n六分(ろっぷん) - 6 minutos\n七分(ななふん) - 7 minutos\n八分(はっぷん) - 8 minutos\n十分(じゅっぷん / じっぷん) - 10 minutos\n二十分(にじゅっぷん) - 20 minutos\n三十分(さんじゅっぷん) - 30 minutos"
+                                         },
+                                         {
+                                             "text":  "Edades:\n\n何歳(なんさい)ですか → ¿Cuántos años tienes?\nおいくつですか → forma más cortés\n\n一歳(いっさい)\n二歳(にさい)\n三歳(さんさい)\n四歳(よんさい)\n五歳(ごさい)\n六歳(ろくさい)\n七歳(ななさい)\n八歳(はっさい)\n九歳(きゅうさい)\n十歳(じゅっさい)\n十一歳(じゅういっさい)\n二十歳(はたち)"
+                                         },
+                                         {
+                                             "text":  "Horas:\n\nLas horas se forman añadiendo 時 (じ) al número básico.",
+                                             "image":  "horas.png"
+                                         }
+                                     ]
+                     }
+                 ]
+}

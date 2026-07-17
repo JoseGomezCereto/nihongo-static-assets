@@ -1,0 +1,183 @@
+﻿{
+    "id":  5,
+    "title":  "Lección 5: Verbos y experiencia",
+    "completed":  false,
+    "courseId":  1,
+    "sections":  [
+                     {
+                         "id":  43,
+                         "title":  "Diálogo",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "1) Carlos y Kenji están de vacaciones disfrutando del mar cristalino.",
+                                             "image":  "okinawa.jpg"
+                                         },
+                                         {
+                                             "text":  "カルロス：わあ、きれいな海(うみ)！今(いま)たくさんの人(ひと)が泳(およ)いでいますね。\n\nケンジ：そうですね。カルロスさんは京都(きょうと)の観光(かんこう)のあと、海(うみ)に来(く)たのは始(はじ)めてですか。\n\nカルロス：いいえ、沖縄(おきなわ)は始(はじ)めてです。ずっと来(き)たかったですから、うれしいです。\n\nケンジ：よかった。じゃあ、海(うみ)に入(はい)ってから、サーフィンをしましょう。"
+                                         },
+                                         {
+                                             "text":  "Carlos: ¡Vaya, qué mar tan bonito! Ahora mismo hay mucha gente nadando.\n\nKenji: Es verdad. Carlos, ¿es tu primera vez viniendo a la playa después de hacer turismo en Kioto?\n\nCarlos: No, es mi primera vez en Okinawa. Como siempre había querido venir, estoy muy feliz.\n\nKenji: Qué bien. Entonces, después de entrar al mar, hagamos surf."
+                                         },
+                                         {
+                                             "text":  "2) Más tarde, en la playa cerca de una tienda de alquiler.",
+                                             "image":  "okinawa_surf.jpg"
+                                         },
+                                         {
+                                             "text":  "ケンジ：あそこにボードが準備(じゅんび)してありますよ。名前(なまえ)が書(か)いてありますから、あれを使いましょう。\n\nカルロス：ありがとうございます。だんだん風(かぜ)が強(つよ)くなりますね。\n\nケンジ：ええ、波(なみ)が良(よ)くなりますよ。カルロスさんは京都(きょうと)のお寺(てら)巡(めぐ)りより、サーフィンの方(ほう)が好(す)きですか。\n\nカルロス：はい、でも、最近(さいきん)あまりしていませんから、今(いま)ちょっと緊張(きんちょう)しています。"
+                                         },
+                                         {
+                                             "text":  "Kenji: Allí están preparados los tableros. Como tienen nuestros nombres escritos, usemos esos.\n\nCarlos: Muchas gracias. El viento se está volviendo fuerte poco a poco, ¿verdad?\n\nKenji: Sí, ¡las olas se van a poner buenas! Carlos, ¿te gusta más el surf que visitar los templos de Kioto?\n\nCarlos: Sí, pero no lo he practicado mucho últimamente, así que ahora estoy un poco nervioso."
+                                         },
+                                         {
+                                             "text":  "3) En la oficina de correos, enviando recuerdos de ambos viajes.",
+                                             "image":  "omiyage_okinawa.jpg"
+                                         },
+                                         {
+                                             "text":  "カルロス：すみません。このはがきは京都(きょうと)と沖縄(おきなわ)の両方(りょうほう)の思(おも)い出(で)です。スペインまでいくらですか。\n\n郵便局員(ゆうびんきょくいん)：百円(ひゃくえん)です。\n\nカルロス：じゃあ、切手(きって)を貼(は)ってから出(だ)します。あそこに「スペイン宛(あて)」と書(か)いてありますね。\n\n郵便局員(ゆうびんきょくいん)：はい、そこに置(お)いてください。"
+                                         },
+                                         {
+                                             "text":  "Carlos: Disculpe, esta postal es un recuerdo de ambos lugares, Kioto y Okinawa. ¿Cuánto cuesta hasta España?\n\nEmpleado: Son 100 yenes.\n\nCarlos: Bien, entonces la enviaré después de pegarle el sello. Allí está escrito \u0027Para España\u0027, ¿verdad?\n\nEmpleado: Sí, por favor colóquela ahí."
+                                         },
+                                         {
+                                             "text":  "4) El lunes, de vuelta en la escuela de idiomas.",
+                                             "image":  "mar_okinawa.jpg"
+                                         },
+                                         {
+                                             "text":  "ケンジ：カルロスさん、旅行(りょこう)は楽(たの)しかったですか。\n\nカルロス：ええ、最高(さいこう)でした！京都(きょうと)の神社(じんじゃ)も沖縄(おきなわ)の海(うみ)も素晴(すば)らしかったです。今(いま)もアルバムを作(つく)っています。\n\nケンジ：いいですね。日本語(にほんご)も上手(じょうず)になりましたね。\n\nカルロス：いいえ、まだまだです。でも、もっと勉強(べんきょう)して、ペラペラになりたいです。"
+                                         },
+                                         {
+                                             "text":  "Kenji: Carlos, ¿estuvo divertido el viaje?\n\nCarlos: ¡Sí, fue lo mejor! Tanto los templos de Kioto como el mar de Okinawa fueron maravillosos. Incluso ahora estoy armando un álbum.\n\nKenji: Qué bien. Tu japonés también se ha vuelto muy bueno, ¿verdad?\n\nCarlos: No, qué va, todavía me falta mucho. Pero quiero estudiar más y volverme fluido."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  44,
+                         "title":  "Forma TE del verbo",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La forma て (te) es una de las conjugaciones más importantes en japonés. Se usa para unir acciones, pedir cosas, dar permiso, prohibir y expresar estados continuos. Aprender a formar la base constructiva de la forma te te abrirá las puertas para dominar las estructuras de esta lección.",
+                                             "image":  "forma_te.jpg"
+                                         },
+                                         {
+                                             "text":  "¿Cómo se forma?\n\n- Para los verbos que terminan en る y pertenecen al grupo \u0027ru-verbs\u0027, simplemente quita る y añade て。\n食べる(たべる) → 食べて(たべて)\n\n- Para los \u0027u-verbs\u0027, la terminación cambia según la última sílaba:\nう、つ、る → って\n会う(あう) → 会って(あって)\n待つ(まつ) → 待って(まって)\nとる(とる) → とって(とって)\n\nむ、ぶ、ぬ → んで\n読む(よむ) → 読んで(よんで)\n遊ぶ(あそぶ) → 遊んで(あそんで)\n死ぬ(しぬ) → 死んで(しんで)\n\nく → いて\n書く(かく) → 書いて(かいて)\n*Excepción: 行く(いく) → 行って(いって)\n\nぐ → いで\n泳ぐ(およぐ) → 泳いで(およいで)\n\nす → して\n話す(はなす) → 話して(はなして)\n\nVerbos irregulares:\nする(する) → して(して)\nくる(くる) → きて(きて)"
+                                         },
+                                         {
+                                             "text":  "Resumen de conjugación rápida (Gerundio y base constructiva):\n\nru-verbs:\n食べる(たべる) → 食べて(たべて)\n\nu-verbs:\n会う(あう) → 会って(あって)\n待つ(まつ) → 待って(まって)\nとる(とる) → とって(とって)\n読む(よむ) → 読んで(よんで)\n遊ぶ(あそぶ) → 遊んで(あそんで)\n死ぬ(しぬ) → 死んで(しんで)\n書く(かく) → 書いて(かいて)\n泳ぐ(およぐ) → 泳いで(およいで)\n話す(はなす) → 話して(はなして)\n\nIrregulares:\nする(する) → して(して)\nくる(くる) → きて(きて)\n\nExcepción:\n行く(いく) → 行って(いって)"
+                                         },
+                                         {
+                                             "text":  "Consejo práctico: Memoriza la forma te de cada verbo básico como un bloque compacto. Así te será automático combinarlo con las estructuras de progreso (~ている) o estados (~てある) que veremos a continuación."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  45,
+                         "title":  "〜ている (Acción en curso vs Estado)",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La estructura [Verbo en forma て] + いる (iru) es fundamental pero a veces engañosa. No siempre se traduce como \u0027estar haciendo algo en este instante\u0027, ya que tiene dos usos principales:\n\n1. Acción progresiva: Equivale al gerundio en español (\u0027estar haciendo algo\u0027). Se usa para acciones que ocurren en el presente (estudiar, comer, nadar).\n\n2. Estado resultante: Describe una situación que empezó en el pasado pero cuyo resultado sigue vigente en el presente (como estar casado, estar nervioso, o estar sentado). Aquí, aunque el verbo parece de acción, lo que describes es la condición actual resultante de esa acción."
+                                         },
+                                         {
+                                             "text":  "Ejemplos:\n\n人(ひと)がたくさん泳(およ)いでいます。\nHay mucha gente nadando. (Acción en progreso).\n\n今(いま)本(ほん)を読(よ)んでいます。\nEstoy leyendo un libro. (Acción en progreso).\n\n私(わたし)は結婚(けっこん)しています。\nEstoy casado/a. (Estado resultante, no \u0027me estoy casando\u0027).\n\n今(いま)ちょっと緊張(きんちょう)しています。\nAhora mismo estoy un poco nervioso. (Estado resultante)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  46,
+                         "title":  "〜てある",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La estructura [Verbo transitivo en forma て] + ある (aru) indica un estado resultante. Significa que alguien realizó una acción intencionada en el pasado y que el efecto de esa acción todavía se puede ver u observar en el presente."
+                                         },
+                                         {
+                                             "text":  "ボードが準備(じゅんび)してあります。\nLas tablas están preparadas (Alguien las dejó listas).\n\n名前(なまえ)が書(か)いてあります。\nEl nombre está escrito (Alguien lo escribió y ahí sigue)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  47,
+                         "title":  "〜てから",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para encadenar acciones indicando un orden cronológico estricto, usamos [Verbo en forma て] + から (kara). Significa \u0027después de hacer X...\u0027 o \u0027una vez que termine X, haré Y\u0027."
+                                         },
+                                         {
+                                             "text":  "海(うみ)に入(はい)ってから、サーフィンをしましょう。\nDespués de entrar al mar, hagamos surf.\n\n切手(きって)を貼(は)ってから出(だ)します。\nLo enviaré después de pegarle el sello."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  48,
+                         "title":  "〜たことがある",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para hablar de nuestras experiencias de vida en pasado (\u0027haber hecho algo alguna vez\u0027), cambiamos el verbo a su forma de pasado informal (forma た) y le añadimos ことがある (koto ga aru). Para negar que tenemos esa experiencia, usamos ことがないです."
+                                         },
+                                         {
+                                             "text":  "沖縄(おきなわ)に来(く)たことがありますか。\n¿Has venido alguna vez a Okinawa?\n\nサーフィンをしたことがあります。\nHe hecho surf alguna vez."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  49,
+                         "title":  "なる",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "El verbo なる (naru) significa \u0027convertirse en\u0027 o \u0027volverse\u0027. Sirve para expresar un cambio de estado:\n\n・Con Sustantivos y Adjetivos な: Se añade に (ni) antes de なる.\n・Con Adjetivos い: Se cambia la い final por く (ku) antes de なる."
+                                         },
+                                         {
+                                             "text":  "日本語(にほんご)が上手(じょうず)になりました。\nTu japonés se ha vuelto bueno (Ha mejorado).\n\n風(かぜ)が強(つよ)くなります。\nEl viento se vuelve fuerte."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  50,
+                         "title":  "Expresiones Útiles",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Expresión: 忙(いそが)しい / にぎやか(な)\n\n忙しい (isogashii) se usa para describir personas ocupadas, pero no lugares. Si quieres decir que un lugar (como una ciudad o playa) es animado o concurrido, usa にぎやか(な) (nigiyaka na)."
+                                         },
+                                         {
+                                             "text":  "Ejemplos:\nケンジさんは忙(いそが)しいです。\nKenji está ocupado.\n\n東京(とうきょう)はにぎやかです。\nTokio es animado / concurrido."
+                                         },
+                                         {
+                                             "text":  "Nota: Puedes omitir el sujeto si está claro por el contexto. Por ejemplo:\n日曜日(にちようび)は忙(いそが)しいです。\nEstoy ocupado el domingo."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  51,
+                         "title":  "Un vistazo a la cultura",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "日本の祭り (Matsuri japoneses)\n\nEn Japón hay muchísimos festivales (祭り, matsuri) a lo largo del año. Algunos son muy famosos y otros solo los conocen los locales. Hay festivales tradicionales y otros más recientes. Aquí tienes algunos de los más conocidos:",
+                                             "image":  "matsuri.jpg"
+                                         },
+                                         {
+                                             "text":  "札幌 雪祭り (さっぽろ ゆきまつり)\nEl Festival de la Nieve de Sapporo se celebra una semana a principios de febrero. Es famoso por sus enormes esculturas de nieve en el parque de la avenida principal."
+                                         },
+                                         {
+                                             "text":  "京都 祇園祭 (きょうと ぎおんまつり)\nEl Gion Matsuri de Kioto se celebra en julio. El día 17, enormes carrozas decoradas desfilan por las calles principales de Kioto."
+                                         },
+                                         {
+                                             "text":  "青森 ねぶた祭り (あおもり ねぶたまつり)\nEl Nebuta Matsuri de Aomori se celebra del 2 al 7 de agosto. Grandes farolillos de colores desfilan por las calles, acompañados de música y bailes."
+                                         },
+                                         {
+                                             "text":  "徳島 阿波踊り (とくしま あわおどり)\nEl Awa Odori de Tokushima se celebra del 12 al 15 de agosto. Grupos de personas forman filas y bailan por el centro de la ciudad."
+                                         },
+                                         {
+                                             "text":  "仙台 七夕祭り (せんだい たなばたまつり)\nEl Tanabata Matsuri de Sendai se celebra del 6 al 8 de agosto y es famoso por sus grandes y colorivas decoraciones hechas con papel japonés.",
+                                             "image":  "tanabata.jpg"
+                                         }
+                                     ]
+                     }
+                 ]
+}

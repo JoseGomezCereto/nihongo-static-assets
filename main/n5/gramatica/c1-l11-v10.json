@@ -1,0 +1,237 @@
+﻿{
+    "id":  11,
+    "title":  "Lección 11, Después de las Vacaciones",
+    "completed":  false,
+    "courseId":  1,
+    "sections":  [
+                     {
+                         "id":  94,
+                         "title":  "Diálogo",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Suzuki y Lucía se encuentran después de las vacaciones."
+                                         },
+                                         {
+                                             "text":  "すずき：ルシアさん、久(ひさ)しぶりですね。休(やす)みはどうでしたか。\n\nルシア：すごく楽(たの)しかったです。韓国(かんこく)で買(か)い物(もの)をしたり、韓国料理(りょうり)を食(た)べたりしました。\n\nすずき：いいですね。私(わたし)も旅行(りょこう)したいです。\n\nルシア：すずきさんの休(やす)みは楽(たの)しかったですか。\n\nすずき：まあまあでした。一日(いちにち)だけドライブに行(い)きましたが、毎日(まいにち)アルバイトをしていました。",
+                                             "image":  "corea_compras.jpg"
+                                         },
+                                         {
+                                             "text":  "Suzuki: Lucía, ¡cuánto tiempo! ¿Qué tal las vacaciones?\n\nLucía: Fueron muy divertidas. Fui de compras en Corea y probé comida coreana.\n\nSuzuki: ¡Qué bien! Yo también quiero viajar.\n\nLucía: ¿Y tus vacaciones, Suzuki?\n\nSuzuki: Más o menos. Solo fui a dar una vuelta en coche un día, pero estuve trabajando a tiempo parcial todos los días."
+                                         },
+                                         {
+                                             "text":  "En clase, Lucía presenta a Suzuki a un nuevo compañero."
+                                         },
+                                         {
+                                             "text":  "ルシア：すずきさん、友(とも)だちを紹介(しょうかい)します。こちらはジョンさんです。\n\nジョンさんは先月(せんげつ)、日本(にほん)に来(き)ました。\n\nジョン：初(はじ)めまして。\n\nすずき：初(はじ)めまして、山川(やまかわ)すずきです。",
+                                             "image":  "hanami.jpg"
+                                         },
+                                         {
+                                             "text":  "Lucía: Suzuki, te presento a un amigo. Este es John. Llegó a Japón el mes pasado.\n\nJohn: Encantado de conocerte.\n\nSuzuki: Encantada, soy Suzuki Yamakawa."
+                                         },
+                                         {
+                                             "text":  "Suzuki y John conversan sobre sus lugares de origen."
+                                         },
+                                         {
+                                             "text":  "すずき：ジョンさん、出身(しゅっしん)はどこですか。\n\nジョン：オーストラリアのケアンズです。\n\nすずき：そうですか。\n\nジョン：すずきさんはケアンズに行(い)ったことがありますか。\n\nすずき：いいえ、ありません。\n\nジョン：山(やま)や海(うみ)があって、きれいな所(ところ)ですよ。グレートバリアリーフで有名(ゆうめい)です。"
+                                         },
+                                         {
+                                             "text":  "Suzuki: John, ¿de dónde eres?\n\nJohn: Soy de Cairns, Australia.\n\nSuzuki: Ya veo.\n\nJohn: ¿Has estado alguna vez en Cairns?\n\nSuzuki: No, nunca he ido.\n\nJohn: Hay montañas y mar, es un lugar muy bonito. Es famoso por la Gran Barrera de Coral."
+                                         },
+                                         {
+                                             "text":  "Suzuki: Yo soy de Nagano. Si quieres, ven a visitarme alguna vez. La comida también es muy buena.\n\nJohn: ¡Por supuesto, me encantaría!",
+                                             "image":  "nagano_japan.jpg"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  95,
+                         "title":  "〜たい",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La forma 〜たい (tai) se usa para expresar que quieres hacer algo. Se forma añadiendo たいです (tai desu) a la raíz del verbo (la forma que va antes de ます). Es muy útil para hablar de tus deseos y planes."
+                                         },
+                                         {
+                                             "text":  "今度(こんど)の週末(しゅうまつ)は、映画(えいが)を見(み)たいです。\nQuiero ver una película este fin de semana.\n\n映画(えいが)が見(み)たいです。\nQuiero ver una película.",
+                                             "image":  "ver_pelicula.jpg"
+                                         },
+                                         {
+                                             "text":  "いっか中国(ちゅうごく)に行(い)きたいです。\nAlgún día quiero ir a China."
+                                         },
+                                         {
+                                             "text":  "Estructura:\n[Raíz del verbo] + たいです\nEjemplo: 食(た)べます → 食(た)べたいです (Quiero comer)"
+                                         },
+                                         {
+                                             "text":  "Cuando usas たい, los verbos que normalmente llevan la partícula を (o) pueden llevar を (o) o が (ga). Por ejemplo:\nケーキを食(た)べたいです。\nケーキが食(た)べたいです.\nAmbas son correctas."
+                                         },
+                                         {
+                                             "text":  "La forma たい se conjuga como un adjetivo い (i). Así puedes hacer frases negativas y en pasado:\n会(あ)いたくないです。\nNo quiero ver a esa persona.\n\nセーターが買(か)いたかったから、デパートに行(い)きました。\nFui a unos grandes almacenes porque quería comprar un suéter."
+                                         },
+                                         {
+                                             "text":  "Si tu deseo es algo que has querido durante un tiempo, puedes usar たいと思(おom)っています en vez de たいです.\nEjemplo:\nずっと日本(にほん)に行(い)きたいと思(おも)っています。\nHe querido ir a Japón desde hace tiempo."
+                                         },
+                                         {
+                                             "text":  "Para hablar de los deseos de otra persona, no se usa たい. En japonés, se reporta como cita o usando la forma たがっています (tagatte imasu).\nEjemplo:\nルシアさんは着物(きもの)を着(き)たがっています。\n(Parece que) Lucía quiere ponerse un kimono."
+                                         },
+                                         {
+                                             "text":  "También puedes citar lo que alguien dijo usando:\n〜たいと言(い)っていました。\nEjemplo:\nルシアさんはチベットに行(い)きたいと言(い)っていました。\nLucía dijo que quería ir a Tíbet."
+                                         },
+                                         {
+                                             "text":  "Resumen de uso:\n¿Quiero hacer...? / ¿Quieres hacer...?\n- Raíz del verbo + たいです\n- たい se conjuga como adjetivo い (i)\n- Se puede usar が (ga) o を (o)\n¿Él/Ella quiere hacer...?\n- Raíz del verbo + たがっています (tagatte imasu)\n- Solo se usa を (o)\nPara citar deseos de otros:\n- Raíz del verbo + たいと言(い)っています / たいと言(い)っていました"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  96,
+                         "title":  "〜たり〜たりする",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La forma 〜たり〜たりする se usa para mencionar varias actividades como ejemplos, sin indicar un orden concreto ni que sean las únicas que se hacen. Es útil para decir \u0027hago cosas como A y B\u0027, \u0027entre otras cosas\u0027."
+                                         },
+                                         {
+                                             "text":  "Estructura:\n[verbo en pasado corto] たり [verbo en pasado corto] たり します"
+                                         },
+                                         {
+                                             "text":  "Ejemplo:\n大阪(おおさか)で買(か)い物(もの)をしたり、晩(ばん)ご飯(はん)を食(た)べたりします。\nEn Osaka hago cosas como ir de compras y cenar."
+                                         },
+                                         {
+                                             "text":  "Para formar esta estructura, pon el verbo en pasado corto (forma た) y añade り:\n- する → したり\n- 食(た)べる → 食(た)べたり"
+                                         },
+                                         {
+                                             "text":  "Puedes usar más de dos actividades:\n週末(しゅうまつ)は、勉強(べんきょう)したり、友(とも)だちと話(はな)したりしました。\nEl fin de semana estudié, hablé con amigos, entre otras cosas."
+                                         },
+                                         {
+                                             "text":  "También se usa para gustos y hábitos:\n踊(おど)ったり、音楽(おんがく)を聞(き)いたりするのが好(す)きです。\nMe gusta bailar, escuchar música, y cosas así."
+                                         },
+                                         {
+                                             "text":  "Resumen:\n- [actividad A en pasado corto] たり [actividad B en pasado corto] たり します\n- Se usa para dar ejemplos de actividades, sin orden ni exclusividad."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  97,
+                         "title":  "〜ことがある",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La expresión 〜ことがある se usa para decir que has tenido la experiencia de hacer algo alguna vez en tu vida. Se forma con el verbo en pasado corto (forma simple) + ことがある."
+                                         },
+                                         {
+                                             "text":  "Ejemplo:\n富士山(ふじさん)に登(のぼ)ったことがあります。\nHe subido al monte Fuji alguna vez.",
+                                             "image":  "monte_fuji.jpg"
+                                         },
+                                         {
+                                             "text":  "ケンジさんは授業(じゅぎょう)を休(やす)んだことがありません。\nKenji nunca ha faltado a clase."
+                                         },
+                                         {
+                                             "text":  "Estructura:\n[verbo en pasado corto] + ことがある\nEjemplo: 食(た)べたことがある (He comido alguna vez)"
+                                         },
+                                         {
+                                             "text":  "Para preguntar si alguien ha hecho algo alguna vez:\nヨーロッパに行(い)ったことがありますか。\n¿Has ido alguna vez a Europa?"
+                                         },
+                                         {
+                                             "text":  "Respuestas:\nはい、行(い)ったことがあります。\nSí, he ido.\nはい、あります。\nSí, he tenido esa experiencia.\nいいえ、行(い)ったことがありません。\nNo, nunca he ido."
+                                         },
+                                         {
+                                             "text":  "Resumen:\n- [verbo en pasado corto] + ことがある: He hecho X alguna vez.\n- [verbo en pasado corto] + ことがありません: Nunca he hecho X."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  98,
+                         "title":  "Sustantivo A や Sustantivo B",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La partícula や (ya) conecta dos o más sustantivos y se usa para dar ejemplos, indicando que la lista no es exhaustive. Es similar a \u0027y\u0027 en español, pero sugiere \u0027A y B, por ejemplo\u0027."
+                                         },
+                                         {
+                                             "text":  "Estructura:\nA や B\nA y B (entre otros)"
+                                         },
+                                         {
+                                             "text":  "Ejemplo:\n京都(きょうと)や奈良(なら)に行(い)きました。\nFui a Kioto y Nara, entre otros lugares."
+                                         },
+                                         {
+                                             "text":  "Resumen:\n- Sustantivo A や Sustantivo B: A y B, por ejemplo (puede haber más elementos no mencionados)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  99,
+                         "title":  "Un vistazo a la cultura",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "El Año Nuevo en Japón (お正月, おしょうがつ) es la festividad más importante y familiar del país. Se celebra el 1 de enero y la mayoría de negocios cierran esos días para que las familias puedan reunirse.",
+                                             "image":  "oshougatsu.jpg"
+                                         },
+                                         {
+                                             "text":  "Antes de que termine el año, los japoneses limpian a fondo la casa, escriben tarjetas de felicitación (年賀状, ねんがじょう) y preparan todo para empezar bien el nuevo año. En la cena de Nochevieja se suele comer 年越しそば (としこしそば, fideos de trigo sarraceno), porque los fideos largos simbolizan el deseo de una vida larga.",
+                                             "image":  "nengajo_soba.jpg"
+                                         },
+                                         {
+                                             "text":  "Cuando te despides de alguien hasta el año siguiente, se dice よい o 年を (¡Feliz Año Nuevo!). Si ves a alguien por primera vez en el año, se usa あけましておめでとうございます (¡Feliz Año Nuevo!)."
+                                         },
+                                         {
+                                             "text":  "Mucha gente visita templos sintoístas (神社, じんじゃ) o budistas (お寺, おてら) para el 初詣 (はつもうde, primera visita del año), aunque Japón es una sociedad bastante secular.",
+                                             "image":  "hatsumoude.jpg"
+                                         },
+                                         {
+                                             "text":  "En Año Nuevo se comen platos especiales llamados お節料理 (おせちりょうり). Cada plato tiene un significado: por ejemplo, los frijoles negros (黒豆, くろまめ) simbolizan salud y esfuerzo, el arenque (数の子, かずのこ) muchos hijos, y así sucesivamente. El alimento más típico es el 餅 (もち, pastel de arroz), que se toma tostado o en sopa (雑煮, ぞうに)."
+                                         },
+                                         {
+                                             "text":  "Los niños reciben お年玉 (おとしだま), dinero en un sobre especial, de sus padres, abuelos y familiares. Es uno de los momentos más esperados por los pequeños."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  100,
+                         "title":  "Expresiones Útiles",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Expresiones útiles con に:\nLa partícula に (ni) puede indicar el propósito de una acción, como en \u0027comprar algo como recuerdo\u0027:\nおみやげに絵葉書(えはがき)を買(か)いました。\nCompré una postal como recuerdo."
+                                         },
+                                         {
+                                             "text":  "ドライブ (drive):\nPara decir que vas a dar una vuelta en coche por placer, usa ドライブに行(い)く o ドライブする.\n湖(みずうみ)までドライブに行(い)きました。\nFui a dar una vuelta en coche hasta el lago."
+                                         },
+                                         {
+                                             "text":  "運転(うんてん)する:\nSi solo quieres decir \u0027conducir\u0027, usa 運転(うんてん)する.\n日本(にほん)で車(くるま)を運転(うんてん)したことがありますか。\n¿Has conducido alguna vez en Japón?"
+                                         },
+                                         {
+                                             "text":  "夢(ゆめ) – Sueño:\nEn japonés, 夢(ゆめ) puede referirse tanto a los sueños que tienes al dormir como a tus metas o aspiraciones. Para sueños al dormir, usa el verbo 見(み)る (ver):\nゆうべこわい夢(ゆめ)を見(み)ました。\nAnoche tuve una pesadilla.\nPara sueños de futuro, usa 持(も)つ (tener):\n夢(ゆめ)を持(も)っています。\nTengo un sueño / una meta."
+                                         },
+                                         {
+                                             "text":  "Preguntar por los sueños de alguien:\nあなたの将来(しょうらい) de 夢(ゆめ)は何(なん)ですか。\n¿Cuál es tu sueño para el futuro?"
+                                         },
+                                         {
+                                             "text":  "に + は:\nLa combinación に + は se usa para describir lo que hay en un lugar, especialmente cuando respondes a preguntas como \u0027¿Qué hay en Tokio?\u0027.\n東京(とうきょう)にはデパートがたくさんあります。\nEn Tokio hay muchos grandes almacenes.",
+                                             "image":  "tokyo_departamentos.jpg"
+                                         },
+                                         {
+                                             "text":  "は en frases negativas:\nEn japonés, en frases negativas es común usar は en vez de が o を.\nQ: 山本先生(やまもとせんせい)はテレビを見(み)ますか。\n¿El profesor Yamamoto ve la tele?\nA: いいえ、テレビは見(み)ません。\nNo, no la ve."
+                                         },
+                                         {
+                                             "text":  "だ(け) – Solo, solamente:\nPuedes añadir だけ después de números o palabras para decir \u0027solo\u0027 o \u0027solamente\u0027.\n私はその人(ひと)に一回(いっかい)だけ会(あ)ったことがあります。\nSolo he visto a esa persona una vez.\n一つだけ質問(しつもん)があります。\nSolo tengo una pregunta."
+                                         },
+                                         {
+                                             "text":  "に para indicar ocasión:\nLa partícula に también se usa para indicar el momento en que ocurre una acción.\n晩(ばん)ご飯(はん)にサラダを食(た)べました。\nComí ensalada en la cena."
+                                         },
+                                         {
+                                             "text":  "Expresiones comunes en clase:\nどちらでもいいです。 — Cualquiera está bien.\n同じです。 — Es lo mismo.\nだいたい同じです。 — Más o menos igual.\nちょっと違(ちが)います。 — Es un poco diferente.\n使(つか)えません。 — No se puede usar.\nだめです。 — No está bien."
+                                         },
+                                         {
+                                             "text":  "手(て)をあげてください。 — Levanta la mano.\n読(よ)んできてください。 — Léelo antes de venir a clase.\n宿題(しゅくだい)を出(だ)してください。 — Entrega la tarea.\n教科書(きょうかしょ)を閉(と)じてください。 — Cierra el libro de texto.\nとなりの人(ひと)に聞(き)いてください。 — Pregunta a la persona de al lado.\nやめてください。 — Para, por favor.\n今日はこれで終(お)わります。 — Eso es todo por hoy."
+                                         },
+                                         {
+                                             "text":  "Correcto e Incorrecto:\nまる (O) — Correcto\nばつ (X) — Incorrecto"
+                                         },
+                                         {
+                                             "text":  "Vocabulario útil en clase:\n宿題(しゅくだい) — tarea\nしめきり — fecha límite\n練習(れんしゅう) — ejercicio\n意味(いみ) — significado\n発音(はつおん) — pronunciación\n文法(ぶんぽう) — gramática\n質問(しつもん) — pregunta\n答(こた)え — respuesta\n例(れい) — ejemplo\nかっこ（ ）— paréntesis\nまる（○）— correcto\nばつ（×）— incorrecto\nくだけた言(い)い方(かた) — expresión coloquial\nかたい言(い)い方(かた) — expresión formal\nていneいな言(い)い方(かた) — expresión educada\n方言(ほうげん) — dialecto\n標準語(ひょうじゅんご) — japonés estándar\nたとえば — por ejemplo\nほかに — además\n〜番(ばん) — número\n〜ページ — página\n〜行目(ぎょうめ) — línea\n二人ずつ(ふたりずつ) — de dos en dos"
+                                         }
+                                     ]
+                     }
+                 ]
+}

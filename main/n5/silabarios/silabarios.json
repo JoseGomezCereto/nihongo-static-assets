@@ -1,0 +1,646 @@
+﻿[
+    {
+        "id":  1,
+        "caracter":  "あ",
+        "lectura":  "a",
+        "imagen":  "hiragana_a.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  2,
+        "caracter":  "い",
+        "lectura":  "i",
+        "imagen":  "hiragana_i.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  3,
+        "caracter":  "う",
+        "lectura":  "u",
+        "imagen":  "hiragana_u.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  4,
+        "caracter":  "え",
+        "lectura":  "e",
+        "imagen":  "hiragana_e.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  5,
+        "caracter":  "お",
+        "lectura":  "o",
+        "imagen":  "hiragana_o.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  6,
+        "caracter":  "か",
+        "lectura":  "ka",
+        "imagen":  "hiragana_ka.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  7,
+        "caracter":  "き",
+        "lectura":  "ki",
+        "imagen":  "hiragana_ki.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  8,
+        "caracter":  "く",
+        "lectura":  "ku",
+        "imagen":  "hiragana_ku.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  9,
+        "caracter":  "け",
+        "lectura":  "ke",
+        "imagen":  "hiragana_ke.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  10,
+        "caracter":  "こ",
+        "lectura":  "ko",
+        "imagen":  "hiragana_ko.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  11,
+        "caracter":  "さ",
+        "lectura":  "sa",
+        "imagen":  "hiragana_sa.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  12,
+        "caracter":  "し",
+        "lectura":  "shi",
+        "imagen":  "hiragana_shi.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  13,
+        "caracter":  "す",
+        "lectura":  "su",
+        "imagen":  "hiragana_su.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  14,
+        "caracter":  "せ",
+        "lectura":  "se",
+        "imagen":  "hiragana_se.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  15,
+        "caracter":  "そ",
+        "lectura":  "so",
+        "imagen":  "hiragana_so.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  16,
+        "caracter":  "た",
+        "lectura":  "ta",
+        "imagen":  "hiragana_ta.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  17,
+        "caracter":  "ち",
+        "lectura":  "chi",
+        "imagen":  "hiragana_chi.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  18,
+        "caracter":  "つ",
+        "lectura":  "tsu",
+        "imagen":  "hiragana_tsu.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  19,
+        "caracter":  "て",
+        "lectura":  "te",
+        "imagen":  "hiragana_te.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  20,
+        "caracter":  "と",
+        "lectura":  "to",
+        "imagen":  "hiragana_to.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  21,
+        "caracter":  "な",
+        "lectura":  "na",
+        "imagen":  "hiragana_na.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  22,
+        "caracter":  "に",
+        "lectura":  "ni",
+        "imagen":  "hiragana_ni.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  23,
+        "caracter":  "ぬ",
+        "lectura":  "nu",
+        "imagen":  "hiragana_nu.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  24,
+        "caracter":  "ね",
+        "lectura":  "ne",
+        "imagen":  "hiragana_ne.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  25,
+        "caracter":  "の",
+        "lectura":  "no",
+        "imagen":  "hiragana_no.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  26,
+        "caracter":  "は",
+        "lectura":  "ha",
+        "imagen":  "hiragana_ha.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  27,
+        "caracter":  "ひ",
+        "lectura":  "hi",
+        "imagen":  "hiragana_hi.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  28,
+        "caracter":  "ふ",
+        "lectura":  "fu",
+        "imagen":  "hiragana_fu.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  29,
+        "caracter":  "へ",
+        "lectura":  "he",
+        "imagen":  "hiragana_he.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  30,
+        "caracter":  "ほ",
+        "lectura":  "ho",
+        "imagen":  "hiragana_ho.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  31,
+        "caracter":  "ま",
+        "lectura":  "ma",
+        "imagen":  "hiragana_ma.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  32,
+        "caracter":  "み",
+        "lectura":  "mi",
+        "imagen":  "hiragana_mi.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  33,
+        "caracter":  "む",
+        "lectura":  "mu",
+        "imagen":  "hiragana_mu.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  34,
+        "caracter":  "め",
+        "lectura":  "me",
+        "imagen":  "hiragana_me.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  35,
+        "caracter":  "も",
+        "lectura":  "mo",
+        "imagen":  "hiragana_mo.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  36,
+        "caracter":  "や",
+        "lectura":  "ya",
+        "imagen":  "hiragana_ya.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  37,
+        "caracter":  "ゆ",
+        "lectura":  "yu",
+        "imagen":  "hiragana_yu.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  38,
+        "caracter":  "よ",
+        "lectura":  "yo",
+        "imagen":  "hiragana_yo.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  39,
+        "caracter":  "ら",
+        "lectura":  "ra",
+        "imagen":  "hiragana_ra.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  40,
+        "caracter":  "り",
+        "lectura":  "ri",
+        "imagen":  "hiragana_ri.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  41,
+        "caracter":  "る",
+        "lectura":  "ru",
+        "imagen":  "hiragana_ru.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  42,
+        "caracter":  "れ",
+        "lectura":  "re",
+        "imagen":  "hiragana_re.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  43,
+        "caracter":  "ろ",
+        "lectura":  "ro",
+        "imagen":  "hiragana_ro.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  44,
+        "caracter":  "わ",
+        "lectura":  "wa",
+        "imagen":  "hiragana_wa.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  45,
+        "caracter":  "を",
+        "lectura":  "wo",
+        "imagen":  "hiragana_wo.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  46,
+        "caracter":  "ん",
+        "lectura":  "n",
+        "imagen":  "hiragana_n.gif",
+        "isKatakana":  false
+    },
+    {
+        "id":  47,
+        "caracter":  "ア",
+        "lectura":  "a",
+        "imagen":  "katakana_a.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  48,
+        "caracter":  "イ",
+        "lectura":  "i",
+        "imagen":  "katakana_i.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  49,
+        "caracter":  "ウ",
+        "lectura":  "u",
+        "imagen":  "katakana_u.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  50,
+        "caracter":  "エ",
+        "lectura":  "e",
+        "imagen":  "katakana_e.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  51,
+        "caracter":  "オ",
+        "lectura":  "o",
+        "imagen":  "katakana_o.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  52,
+        "caracter":  "カ",
+        "lectura":  "ka",
+        "imagen":  "katakana_ka.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  53,
+        "caracter":  "キ",
+        "lectura":  "ki",
+        "imagen":  "katakana_ki.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  54,
+        "caracter":  "ク",
+        "lectura":  "ku",
+        "imagen":  "katakana_ku.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  55,
+        "caracter":  "ケ",
+        "lectura":  "ke",
+        "imagen":  "katakana_ke.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  56,
+        "caracter":  "コ",
+        "lectura":  "ko",
+        "imagen":  "katakana_ko.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  57,
+        "caracter":  "サ",
+        "lectura":  "sa",
+        "imagen":  "katakana_sa.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  58,
+        "caracter":  "シ",
+        "lectura":  "shi",
+        "imagen":  "katakana_shi.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  59,
+        "caracter":  "ス",
+        "lectura":  "su",
+        "imagen":  "katakana_su.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  60,
+        "caracter":  "セ",
+        "lectura":  "se",
+        "imagen":  "katakana_se.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  61,
+        "caracter":  "ソ",
+        "lectura":  "so",
+        "imagen":  "katakana_so.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  62,
+        "caracter":  "タ",
+        "lectura":  "ta",
+        "imagen":  "katakana_ta.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  63,
+        "caracter":  "チ",
+        "lectura":  "chi",
+        "imagen":  "katakana_chi.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  64,
+        "caracter":  "ツ",
+        "lectura":  "tsu",
+        "imagen":  "katakana_tsu.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  65,
+        "caracter":  "テ",
+        "lectura":  "te",
+        "imagen":  "katakana_te.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  66,
+        "caracter":  "ト",
+        "lectura":  "to",
+        "imagen":  "katakana_to.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  67,
+        "caracter":  "ナ",
+        "lectura":  "na",
+        "imagen":  "katakana_na.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  68,
+        "caracter":  "ニ",
+        "lectura":  "ni",
+        "imagen":  "katakana_ni.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  69,
+        "caracter":  "ヌ",
+        "lectura":  "nu",
+        "imagen":  "katakana_nu.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  70,
+        "caracter":  "ネ",
+        "lectura":  "ne",
+        "imagen":  "katakana_ne.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  71,
+        "caracter":  "ノ",
+        "lectura":  "no",
+        "imagen":  "katakana_no.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  72,
+        "caracter":  "ハ",
+        "lectura":  "ha",
+        "imagen":  "katakana_ha.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  73,
+        "caracter":  "ヒ",
+        "lectura":  "hi",
+        "imagen":  "katakana_hi.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  74,
+        "caracter":  "フ",
+        "lectura":  "fu",
+        "imagen":  "katakana_fu.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  75,
+        "caracter":  "ヘ",
+        "lectura":  "he",
+        "imagen":  "katakana_he.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  76,
+        "caracter":  "ホ",
+        "lectura":  "ho",
+        "imagen":  "katakana_ho.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  77,
+        "caracter":  "マ",
+        "lectura":  "ma",
+        "imagen":  "katakana_ma.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  78,
+        "caracter":  "ミ",
+        "lectura":  "mi",
+        "imagen":  "katakana_mi.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  79,
+        "caracter":  "ム",
+        "lectura":  "mu",
+        "imagen":  "katakana_mu.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  80,
+        "caracter":  "メ",
+        "lectura":  "me",
+        "imagen":  "katakana_me.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  81,
+        "caracter":  "モ",
+        "lectura":  "mo",
+        "imagen":  "katakana_mo.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  82,
+        "caracter":  "ヤ",
+        "lectura":  "ya",
+        "imagen":  "katakana_ya.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  83,
+        "caracter":  "ユ",
+        "lectura":  "yu",
+        "imagen":  "katakana_yu.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  84,
+        "caracter":  "ヨ",
+        "lectura":  "yo",
+        "imagen":  "katakana_yo.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  85,
+        "caracter":  "ラ",
+        "lectura":  "ra",
+        "imagen":  "katakana_ra.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  86,
+        "caracter":  "リ",
+        "lectura":  "ri",
+        "imagen":  "katakana_ri.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  87,
+        "caracter":  "ル",
+        "lectura":  "ru",
+        "imagen":  "katakana_ru.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  88,
+        "caracter":  "レ",
+        "lectura":  "re",
+        "imagen":  "katakana_re.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  89,
+        "caracter":  "ロ",
+        "lectura":  "ro",
+        "imagen":  "katakana_ro.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  90,
+        "caracter":  "ワ",
+        "lectura":  "wa",
+        "imagen":  "katakana_wa.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  91,
+        "caracter":  "ヲ",
+        "lectura":  "wo",
+        "imagen":  "katakana_wo.gif",
+        "isKatakana":  true
+    },
+    {
+        "id":  92,
+        "caracter":  "ン",
+        "lectura":  "n",
+        "imagen":  "katakana_n.gif",
+        "isKatakana":  true
+    }
+]

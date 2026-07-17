@@ -1,0 +1,100 @@
+﻿{
+    "id":  2,
+    "title":  "Lección 2: ¡De compras!",
+    "completed":  false,
+    "courseId":  1,
+    "sections":  [
+                     {
+                         "id":  11,
+                         "title":  "Diálogo:",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Lucía y Kenji visitan una gran tienda de tecnología y pasatiempos en Akihabara (秋葉原). Lucía quiere buscar material para sus clases y un regalo.",
+                                             "image":  "mercadillo_relojes.jpg"
+                                         },
+                                         {
+                                             "text":  "ルシア：この店（みせ）にはアニメの本（ほん）やゲームがたくさんありますね。ケンジさんはどんな本（ほん）が好（す）きですか。\n\nケンジ：僕（ぼく）はパソコンの本（ほん）とマンガをよく読（よ）みます。でも、今日（きょう）はこの限定（げんてい）の雑誌（ざっし）だけを買（か）います。\n\nルシア：あ、英語（えいご）の雑誌（ざっし）もありますね。\n\nケンジ：ええ。それは東京（とうきょう）の学生（がくせい）の教科書（きょうかしょ）です。"
+                                         },
+                                         {
+                                             "text":  "Lucía: En esta tienda hay muchos libros de anime, videojuegos y cosas así, ¿verdad? ¿Qué tipo de libros te gustan, Kenji?\n\nKenji: Yo suelo leer libros de ordenadores y mangas. Pero hoy solo voy a comprar esta revista de edición limitada.\n\nLucía: ¡Ah! También hay revistas en inglés.\n\nKenji: Sí. Esa de ahí es la revista de los estudiantes de Tokio."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  12,
+                         "title":  "どんな (¿Qué tipo de...?)",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Cuando quieres preguntar por las cualidades, el tipo o la naturaleza de un objeto o una categoría, utilizas la palabra どんな (donna). Significa \"¿qué tipo de...?\" o \"¿cómo es...?\" y siempre debe ir colocada justo antes de un sustantivo."
+                                         },
+                                         {
+                                             "text":  "どんな本（ほん）ですか。\n¿Qué tipo de libro es?\n\nどんな学校（がっこう）ですか。\n¿Qué clase de escuela es?"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  13,
+                         "title":  "と (To) y や (Ya)",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para unir cosas en una frase en japonés, tenemos dos partículas fundamentales que cambian por completo el matiz de tu lista:\n\n・と (to): Se usa para listas cerradas (\"Y\"). Significa que solo compras o tienes exactamente los objetos que estás mencionando, ni uno más.\n\n・や (ya): Se usa para listas abiertas (\"Y, entre otras cosas\"). Sirve para dar un par de ejemplos cuando en realidad hay más cosas que no vas a enumerar por completo."
+                                         },
+                                         {
+                                             "text":  "本（ほん）とマンガを買（か）います。\nCompro el libro y el manga (Y nada más).\n\n本（ほん）やゲームがあります。\nHay libros y videojuegos (Entre otras cosas que no menciono)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  14,
+                         "title":  "だけ (Dake) - Solo",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La partícula だけ (dake) sirve para poner un límite estricto. Equivale a nuestro \"solo\" o \"solamente\" en español. Se engancha directamente detrás de la palabra a la que quieres limitar."
+                                         },
+                                         {
+                                             "text":  "雑誌（ざっし）だけを買（か）います。\nCompro solo la revista.\n\nわたしだけが学生（がくせい）です。\nSolo yo soy estudiante."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  15,
+                         "title":  "の (No) - Describir y Clasificar",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Ya sabes que la partícula の (no) sirve para la posesión, pero también funciona como un conector para describir o clasificar cosas. Te permite unir dos sustantivos para especificar el idioma, la temática o la procedencia de un objeto."
+                                         },
+                                         {
+                                             "text":  "英語（えいご）の雑誌（ざっし）\nRevista de/en inglés.\n\n東京（とうきょう）の学生（がくせい）\nEstudiantes de Tokio."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  20,
+                         "title":  "Un Vistazo a la Cultura",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La moneda oficial de Japón es el yen ￥ (kanji: 円), que se pronuncia \u0027en\u0027 en japonés. Los billetes y monedas en circulación son los siguientes:\n"
+                                         },
+                                         {
+                                             "text":  "- Billete de 10.000 yenes: con el retrato de Yukichi Fukuzawa, filósofo y fundador de la Universidad Keio.\n- Billete de 5.000 yenes: con la escritora y poeta Ichiyou Higuchi.\n- Billete de 2.000 yenes: con la imagen de la segunda puerta del castillo Shuri en Okinawa.\n- Billete de 1.000 yenes: con el retrato de Hideyo Noguchi, bacteriólogo dedicado a la investigación de la fiebre amarilla."
+                                         },
+                                         {
+                                             "text":  "- Moneda de 500 yenes: grande y dorada.\n- Moneda de 100 yenes: más pequeña y plateada.\n- Moneda de 50 yenes: plateada, pequeña y con un agujero en el centro.\n- Moneda de 10 yenes: grande y de cobre.\n- Moneda de 5 yenes: dorada y con un agujero central. Se dice que trae buena suerte y suele ofrecerse en los templos.\n- Moneda de 1 yen: plateada y muy ligera."
+                                         },
+                                         {
+                                             "text":  "Todos los billetes y monedas tienen tamaños diferentes. Por ejemplo, los billetes disminuyen de tamaño desde el de 10.000 yenes hasta el de 1.000 yenes. Aunque las tarjetas de crédito son comunes, en algunos comercios pequeños solo aceptan efectivo. Por eso, la mayoría de personas lleva siempre algo de dinero en metálico, y hay cajeros automáticos en casi todas partes.",
+                                             "image":  "billetes_monedas.jpg"
+                                         },
+                                         {
+                                             "text":  "En Japón no se usan cheques personales. Para el transporte público y algunas tiendas, existen tarjetas prepago."
+                                         }
+                                     ]
+                     }
+                 ]
+}

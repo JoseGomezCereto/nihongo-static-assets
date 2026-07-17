@@ -1,0 +1,247 @@
+﻿{
+    "id":  12,
+    "title":  "Lección 12, ¿Cómo te sientes?",
+    "completed":  false,
+    "courseId":  1,
+    "sections":  [
+                     {
+                         "id":  101,
+                         "title":  "Diálogo",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "I) En la escuela."
+                                         },
+                                         {
+                                             "text":  "すずき：ルシアさん、元気(げんき)がありませんね。\n\nルシア：うーん。ちょっと足(あし)が痛(いた)いんです。\n\nすずき：どうしたんですか。\n\nルシア：きのう東京(とうきょう)スカイツリーに登(のぼ)ったんです。たぶん歩(ある)きすぎたんだと思(おも)います。\n\nすずき：えっ、階段(かいだん)で！？大丈夫(だいじょうぶ)ですか。\n\nルシア：ええ、心配(しんぱい)しないでください。……ああ、痛(いた)い。\n\nすずき：病院(びょういん)に行(い)ったほうがいいですよ。"
+                                         },
+                                         {
+                                             "text":  "Suzuki: Lucía, no pareces tener mucha energía.\n\nLucía: Mmm... Es que me duelen un poco las piernas.\n\nSuzuki: ¿Qué te ha pasado?\n\nLucía: Es que ayer subí a la Tokyo Skytree. Creo que caminé demasiado.\n\nSuzuki: ¡¿Eh, por las escaleras?! ¿Estás bien?\n\nLucía: Sí, no te preocupes... ¡Ay, duele!\n\nSuzuki: Es mejor que vayas al hospital."
+                                         },
+                                         {
+                                             "text":  "\n\n----------------------------------------\n\n"
+                                         },
+                                         {
+                                             "text":  "II) En el hospital."
+                                         },
+                                         {
+                                             "text":  "ルシア：先生(せんせい)、足(あし)がひどく痛(いた)いんです。きのうは熱(ねつ)もあったんです。\n\n医者(いしゃ)：ああ、そうですか。筋肉痛(きんにくつう)ですね。ちょっと無理(むり)をしすぎましたね。\n\nルシア：あの、あした東京(とうきょう)タワーに行(い)く予定(よてい)があるので、早(はや)く治(なお)さなきゃいけないんですが……。\n\n医者(いしゃ)：二三日(にさんにち)、歩(ある)かないほうがいいでしょう。タワーはあきらめてください。\n\nルシア：わかりました……。残念(ざんねん)です。\n\n医者(いしゃ)：今日(きょう)は薬(くすり)を飲(の)んで、早(はや)く寝(ね)てください。\n\nルシア：はい、ありがとうございました。\n\n医者(いしゃ)：お大事(だいじ)に。"
+                                         },
+                                         {
+                                             "text":  "Lucía: Doctor, me duelen muchísimo las piernas. Ayer también tuve fiebre.\n\nDoctor: Ah, ya veo. Son agujetas (dolor muscular). Te has esforzado demasiado.\n\nLucía: Esto... tengo planes de ir a la Torre de Tokio mañana, así que tengo que curarme rápido...\n\nDoctor: Seguramente sea mejor que no camines durante un par de días. Olvídate de la torre.\n\nLucía: Entendido... Qué pena.\n\nDoctor: Tómate esta medicina y acuéstate temprano hoy.\n\nLucía: Sí, muchas gracias.\n\nDoctor: Cuídate."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  102,
+                         "title":  "〜んです",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La expresión 〜んです se usa para dar explicaciones, justificar algo o pedir aclaraciones. Es muy común en japonés hablado y añade cercanía y naturalidad."
+                                         },
+                                         {
+                                             "text":  "Diferencia entre informar y explicar:\n\nバスが来(こ)ませんでした。\nEl autobús no vino. (informar)\n\nバスが来(こ)なかったんです。\nEs que el autobús no vino. (explicar la razón)"
+                                         },
+                                         {
+                                             "text":  "〜んです se coloca después de la forma corta del verbo, adjetivo o sustantivo. Si va después de un sustantivo o adjetivo な, se añade な antes de んです:\n\n静(しず)かなんです。\n\n学生(がくせい)なんです。"
+                                         },
+                                         {
+                                             "text":  "Ejemplos:\n\nどうして来(こ)なかったんですか。\n¿Por qué no viniste?\n\n頭(あたま)が痛(いた)かったんです。\nEs que me dolía la cabeza."
+                                         },
+                                         {
+                                             "text":  "Puedes usar んです para pedir explicaciones o aclarar situaciones:\n\nどうしたんですか。\n¿Qué ha pasado?\n\n猫(ねこ)が死(し)んだんです。\nEs que mi gato ha muerto."
+                                         },
+                                         {
+                                             "text":  "También se usa para añadir información o contexto:\n\nキーポイントとなる教科書(きょうかしょ)ですね。\nEs un libro de texto muy bueno, ¿verdad?\n\nええ、私(わたし)の大学(だいがく)の先生(せんせい)が書(か)いたんです。\nSí, lo escribió un profesor de mi universidad."
+                                         },
+                                         {
+                                             "text":  "En la lengua escrita, se usa のです en vez de んです para sonar más formal:\n\n成績(せいせき)がよくないんです。\nEs que mi nota no es buena."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  103,
+                         "title":  "〜すぎる",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "El verbo auxiliar すぎる significa \u0027demasiado\u0027 o \u0027excesivamente\u0027. Se añade a la raíz de verbos y adjetivos para indicar que algo es excesivo."
+                                         },
+                                         {
+                                             "text":  "早く起(お)きすぎました。\nMe levanté demasiado temprano."
+                                         },
+                                         {
+                                             "text":  "食(た)べすぎてはいけません。\nNo debes comer demasiado."
+                                         },
+                                         {
+                                             "text":  "Para adjetivos, elimina la terminación い o な y añade すぎる:\n\n(高い) この本は高(たか)すぎます。\nEste libro es demasiado caro.\n\n(静かな) この町(まち)は静(しず)かすぎます。\nEste pueblo es demasiado tranquilo."
+                                         },
+                                         {
+                                             "text":  "Usa すぎる cuando algo supera lo normal o lo adecuado, y suele tener una connotación negativa."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  104,
+                         "title":  "〜ほうがいいです",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La expresión 〜ほうがいいです se usa para dar consejos o recomendaciones. Significa \u0027es mejor que...\u0027 o \u0027deberías...\u0027.",
+                                             "image":  "consejo_houga.jpg"
+                                         },
+                                         {
+                                             "text":  "Cuando el consejo es afirmativo, se usa la forma corta en pasado del verbo:\n\nもっと野菜(やさい)を食(た)べたほうがいいですよ。\nDeberías comer más verduras."
+                                         },
+                                         {
+                                             "text":  "Cuando el consejo es negativo, se usa la forma corta en presente negativo:\n\n授業(じゅぎょう)を休(やす)まないほうがいいですよ。\nEs mejor no faltar a clase."
+                                         },
+                                         {
+                                             "text":  "Esta estructura implica que si no sigues el consejo, puede haber un problema o consecuencia."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  105,
+                         "title":  "〜ので",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La partícula ので se usa para dar una razón o causa, igual que から pero más formal y suave."
+                                         },
+                                         {
+                                             "text":  "Estructura:\n\n(razón) ので (situación)。\n\n(situación)、(razón)ので。"
+                                         },
+                                         {
+                                             "text":  "Ejemplo:\n\nいつも日本語(にほんご)で話(はな)すので、日本語(にほんご)が上手(じょうず)になりました。\nMi japonés ha mejorado porque siempre hablo en japonés."
+                                         },
+                                         {
+                                             "text":  "宿題(しゅくだい)がたくさんあったので、きのうの夜(よる)寝(ね)ませんでした。\nNo dormí anoche porque tenía muchos deberes."
+                                         },
+                                         {
+                                             "text":  "Si la razón es un sustantivo o adjetivo な, se añade な antes de ので:\n\n今日は日曜日(にちようび)なので、銀行(ぎんこう)は休(やす)みです。\nEl banco está cerrado porque hoy es domingo."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  106,
+                         "title":  "〜なければいけません / 〜なきゃいけません",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Estas expresiones significan \u0027hay que...\u0027 o \u0027debes...\u0027. Se usan para indicar obligación o necesidad.",
+                                             "image":  "obligacion_nakereba.jpg"
+                                         },
+                                         {
+                                             "text":  "Se forman a partir de la forma negativa corta del verbo:\n\n食(た)べない → 食(た)べなければいけません / 食(た)べなきゃいけません\n\n言(い)わない → 言(い)わなければいけません / 言(い)わなきゃいけません"
+                                         },
+                                         {
+                                             "text":  "Ejemplo:\n\n試験(しけん)があるから、勉強(べんきょう)しなければいけません / しなきゃいけません。\nTengo que estudiar porque hay examen."
+                                         },
+                                         {
+                                             "text":  "けさは、六時(ろくじ)に起(お)きなきゃいけませんでした。\nEsta mañana tuve que levantarme a las seis."
+                                         },
+                                         {
+                                             "text":  "毎日(まいにち)、練習(れんしゅう)しなきゃいけないんです。\nTengo que practicar cada día."
+                                         },
+                                         {
+                                             "text":  "なきゃいけません es más coloquial y se usa en el habla diaria. なければいけません es más formal y común en la escritura."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  107,
+                         "title":  "〜でしょう",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La expresión 〜でしょう se usa para expresar probabilidad, suposición o pedir confirmación. Equivale a \u0027probablemente\u0027, \u0027seguro que...\u0027 o \u0027¿verdad?\u0027 en español."
+                                         },
+                                         {
+                                             "text":  "Se coloca después de la forma corta del verbo, adjetivo い, adjetivo な o sustantivo.\n\nNo se usa 〜なでしょ, 〜のでしょう ni 〜だでしょう."
+                                         },
+                                         {
+                                             "text":  "Ejemplo con verbo:\n\nあしたは雨(あめ)が降(ふ)るでしょう。\nProbablemente mañana llueva.\n\n降(ふ)らないでしょう。\nProbablemente no llueva."
+                                         },
+                                         {
+                                             "text":  "Ejemplo con adjetivo い:\n\n北海道(ほっかいどう)は寒(さむ)いでしょう。\nHokkaido probablemente es frío.\n\n寒(さむ)くないでしょう。\nProbablemente no es frío."
+                                         },
+                                         {
+                                             "text":  "Ejemplo con adjetivo な:\n\n山本先生(やまもとせんせい)は魚(さかな)が好(す)きでしょう。\nEl profesor Yamamoto probablemente le gusta el pescado.\n\n好(す)きじゃないでしょう。\nProbablemente no le gusta."
+                                         },
+                                         {
+                                             "text":  "Ejemplo con sustantivo:\n\nあの人(ひと)はオーストラリア人(じん)でしょう。\nEsa persona probablemente es australiana.\n\nオーストラリア人(じん)じゃないでしょう。\nProbablemente no es australiana."
+                                         },
+                                         {
+                                             "text":  "Para hacer preguntas y pedir opinión:\n\n日本語(にほんご)と韓国語(かんこくご)、どっちのほうが難(むずか)しいでしょうか。\n¿Cuál dirías que es más difícil, japonés o coreano?"
+                                         },
+                                         {
+                                             "text":  "La forma corta es だろう, usada para predicciones o análisis:\n\nケンジさんは興味(きょうみ)があるだろうと思(おも)います。\nCreo que Kenji estaría interesado."
+                                         },
+                                         {
+                                             "text":  "En conversaciones informales, でしょう se pronuncia más corto (でしょ) y se usa para confirmar algo:\n\nジョン、中国語(ちゅうごくご)がわかるでしょ？これ、読(よ)んで。\nJohn, entiendes chino, ¿verdad? Léeme esto."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  108,
+                         "title":  "Un vistazo a la cultura",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "El clima en Japón varía mucho según la región. Por ejemplo, Naha (Okinawa) tiene inviernos suaves y veranos cálidos y húmedos, mientras que Sapporo (Hokkaido) es frío y con nieve en invierno. Tokio tiene un clima intermedio.",
+                                             "image":  "japanese_climate.jpg"
+                                         },
+                                         {
+                                             "text":  "Las estaciones en Japón:\n\n- Los cerezos florecen en enero en Naha, en marzo en Tokio y en mayo en Sapporo.\n- La temporada de lluvias (梅雨, tsuyu) empieza en mayo en Naha, en junio en Tokio, y no existe en Sapporo.\n- La primera nevada llega en enero a Sapporo, pero no hay nieve en Naha y en Tokio suele ser en enero.\n- Las temperaturas de enero y agosto varían mucho entre regiones."
+                                         },
+                                         {
+                                             "text":  "En la costa del Pacífico el invierno es soleado y seco, pero en la costa del Mar de Japón es nublado y con nieve. La primavera es corta y el verano es muy húmedo y caluroso en casi todo el país. Los tifones (台風, taifuu) pueden llegar en verano y otoño.",
+                                             "image":  "japanese_heavy_rain.jpg"
+                                         },
+                                         {
+                                             "text":  "En Japón la temperatura se mide en grados Celsius. Si estás acostumbrado al sistema Fahrenheit, puedes usar la escala de conversión que aparece en la imagen."
+                                         },
+                                         {
+                                             "text":  "Curiosidad: El clima influye mucho en la vida diaria japonesa, desde la ropa hasta las actividades y festivales. Por ejemplo, la floración de los cerezos (sakura) marca el inicio de la primavera y es motivo de celebración en todo el país.",
+                                             "image":  "sakura_festival.jpg"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  109,
+                         "title":  "Expresiones Útiles",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "En la recepción de la clínica:"
+                                         },
+                                         {
+                                             "text":  "すみません。初(はじ)めてなんですが。\nDisculpe, es mi primera vez aquí.\n\nはい、保険証(ほけんしょう)を見(み)せてください。\nPor favor, muéstreme su tarjeta de seguro médico.\n\nこの紙(かみ)に名前(なまえ)と住所(じゅうしょ)を書(か)いてください。\nPor favor, escriba su nombre y dirección en este papel.\n\nこれは何(なん)の薬(くすり)ですか。\n¿Qué tipo de medicina es esta?\n\n痛(いた)み止(ど)めです。食後(しょくご)に飲(の)んでください。\nEs para el dolor. Tómela después de las comidas.\n\nわかりました。\nEntiendo.\n\nお大事(だいじ)に。\nQue se mejore."
+                                         },
+                                         {
+                                             "text":  "Expresiones para enfermedades y lesiones:"
+                                         },
+                                         {
+                                             "text":  "下痢(げり)です。\nTengo diarrea.\n\n便秘(べんぴ)です。\nEstoy estreñido/a.\n\n生理(せいり)です。\nEstoy con la menstruación.\n\n花粉症(かふんしょう)です。\nTengo alergia al polen.\n\n（〜に）アレルギーがあります。\nTengo alergia a ...\n\n虫歯(むしば)があります。\nTengo caries.\n\nくしゃみが出(で)ます。\nTengo estornudos.\n\n鼻水(はなみず)が出(で)ます。\nTengo mocos."
+                                         },
+                                         {
+                                             "text":  "背中(せなか)がかゆいです。\nMe pica la espalda.\n\n発疹(ほっしん)があります。\nTengo sarpullido.\n\nめまいがします。\nMe siento mareado/a.\n\n吐(は)きました。\nHe vomitado.\n\n気分(きぶん)が悪(わる)いです。\nMe encuentro mal.\n\nやけどをしました。\nMe he quemado.\n\n足(あし)の骨(ほね)を折(お)りました。\nMe he roto la pierna.\n\nけがをしました。\nMe he hecho una herida."
+                                         },
+                                         {
+                                             "text":  "Vocabulario útil en el médico:"
+                                         },
+                                         {
+                                             "text":  "医者(いしゃ) — médico\n内科(ないか) — medicina interna\n皮膚科(ひふか) — dermatólogo\n外科(げか) — cirujano\n産婦人科(さんふじんか) — ginecólogo/obstetra\n整形外科(せいけいげか) — traumatólogo\n眼科(がんか) — oftalmólogo\n歯科(しか) — dentista\n耳鼻科(じびか) — otorrino"
+                                         },
+                                         {
+                                             "text":  "Otros términos útiles:\n\n抗生物質(こうせいぶっしつ) — antibiótico\nレントゲン — radiografía\n手術(しゅじゅつ) — operación\n注射(ちゅうしゃ) — inyección\n体温計(たいおんけい) — termómetro"
+                                         },
+                                         {
+                                             "text":  "Partículas finales de habla natural:\n\n・ね: buscar confirmación compartida.\n今日(きょう)は寒(さむ)いですね。\nHace frío hoy, ¿verdad?\n\n・よ: aportar información nueva con firmeza.\nこの薬(くすり)は食後(しょくご)ですよ。\nEsta medicina es para después de comer.\n\n・なあ: expresar emoción o reflexión personal (estilo informal).\n早(はや)く元気(げんき)になりたいなあ。\nOjalá me recupere pronto..."
+                                         }
+                                     ]
+                     }
+                 ]
+}

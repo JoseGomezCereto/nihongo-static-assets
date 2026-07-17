@@ -1,0 +1,170 @@
+﻿{
+    "id":  10,
+    "title":  "Lección 10: Planes de invierno",
+    "sections":  [
+                     {
+                         "id":  84,
+                         "title":  "Diálogo",
+                         "content":  [
+                                         {
+                                             "text":  "Lucía y Kenji hablan en el campus sobre sus planes para las vacaciones de invierno. Más tarde, Lucía va a la estación de tren para comprar sus billetes.",
+                                             "image":  "invierno_japan.jpg"
+                                         },
+                                         {
+                                             "text":  "ルシア：寒（さむ）くなりましたね。ケンジさん、冬休（ふゆやす）みはどうしますか。\n\nケンジ：うーん、どこにも行（い）きません。バイトが忙（いそが）しいから、ずっとここにいるつもりです。ルシアさんは？\n\nルシア：北海道（ほっかいどう）か沖縄（おきなわ）に行（い）くつもりですが、まだ決（き）めていません。北海道（ほっかいどう）と沖縄（おきなわ）、どっちのほうがいいと思（おも）いますか。\n\nケンジ：雪（ゆき）が見（み）たいなら北海道（ほっかいどう）がいいですよ。でも、暖（あたた）かいほうがいいなら沖縄（おきなわ）ですね。\n\nルシア：沖縄（おきなわ）に行（い）ったら、海（うみ）で泳（およ）いだり、美（うつく）しい景色（けしき）を見（み）たりしたいですね。\n\nケンジ：いいですね！楽（たの）しんできてください。\n\nルシア：じゃあ、帰（かえ）ったらお土産（みやげ）を買（か）ってきますよ。写真（しゃしん）もたくさん見（み）せますね。",
+                                             "image":  "invierno_japan2.jpg"
+                                         },
+                                         {
+                                             "text":  "Lucía: Ya está haciendo frío. Kenji, ¿qué harás en las vacaciones de invierno?\n\nKenji: Mmm, no iré a ningún lado. Estoy muy ocupado con el trabajo a tiempo parcial, así que planeo quedarme aquí todo el tiempo. ¿Y tú, Lucía?\n\nLucía: Planeo ir a Hokkaido o a Okinawa, pero aún no me he decidido. ¿Cuál crees que es mejor, Hokkaido u Okinawa?\n\nKenji: Si quieres ver nieve, Hokkaido es mejor. Pero si prefieres el calor, entonces Okinawa.\n\nLucía: Si voy a Okinawa, me gustaría nadar en el mar y ver los paisajes, entre otras cosas.\n\nKenji: ¡Qué bien! ¡Disfruta mucho!\n\nLucía: Entonces, cuando vuelva, te traeré algún recuerdo. ¡Y te enseñaré muchas fotos!"
+                                         },
+                                         {
+                                             "text":  "En la taquilla de la estación (駅の切符売り場):",
+                                             "image":  "viajes_seoul.jpg"
+                                         },
+                                         {
+                                             "text":  "ルシア：すみません。東京（とうきょう）から那覇（なは）までのチケットを予約（よやく）したいんですが。\n\n駅員（えきいん）：はい。いつのご出発（しゅっぱつ）ですか。\n\nルシア：十二月（じゅうにがつ）二十日（はつか）です。午前中（ごぜんちゅう）の便（びん）はありますか。\n\n駅員（えきいん）：はい、ございます。九時（くじ）の便（びん）が空（あ）いていますよ。\n\nルシア：じゃあ、それをお願（ねが）いします。学生割引（がくせいわりびき）は使（つか）えますか。\n\n駅員（えきいん）：はい、大丈夫（だいじょうぶ）です。学生証（がくせいしょう）を見（み）せてください。\n\nルシア：はい、これです。\n\n駅員（えきいん）：ありがとうございます。約（やく）三時間（さんじかん）かかります。"
+                                         },
+                                         {
+                                             "text":  "Lucía: Disculpe. Me gustaría reservar un billete de Tokio a Naha.\n\nAgente: Entendido. ¿Para cuándo es la salida?\n\nLucía: El 20 de diciembre. ¿Tiene algún vuelo por la mañana?\n\nAgente: Sí. El vuelo de las 9:00 está libre.\n\nLucía: Bien, me quedo con ese. ¿Puedo usar el descuento de estudiante?\n\nAgente: Sí, por supuesto. Por favor, enséñeme su carné de estudiante.\n\nLucía: Aquí tiene.\n\nAgente: Gracias. Tardará unas tres horas."
+                                         }
+                                     ],
+                         "completed":  false
+                     },
+                     {
+                         "id":  85,
+                         "title":  "Comparar 2 ítems: 〜方のほうが〜より",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para comparar dos elementos en japonés y destacar cuál de ellos posee una cualidad en mayor grado, utilizamos la estructura con 方 (ほう). Sirve para decantarse por una de las dos alternativas.\n\nEstructura:\nA のほうが B より [Propiedad] です。\n(A es más [propiedad] que B)\n\nPara preguntar la opinión o preferencia entre dos opciones, usamos:\nA と B と どっち / どちら のほうが [Propiedad] ですか。\n(¿Cuál es más [propiedad], A o B?)"
+                                         },
+                                         {
+                                             "text":  "台湾（たいわん）のほうが韓国（かんこく）より暖かい（あたたかい）です。\nTaiwán es más cálido que Corea.\n\nバスと電車（でんしゃ）と どっちのほうが安い（やすい）ですか。\n¿Cuál es más barato, el autobús o el tren?"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  86,
+                         "title":  "Comparar 3 o más ítems: 〜の中でがいちばん",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Cuando el universo de comparación incluye tres o más elementos, ya no usamos 方 (ほう). En su lugar, delimitamos el grupo o categoría con la partícula で (の中の中で) y empleamos el adverbio いちばん (el número uno / el más).\n\nEstructura:\n[Grupo] の中で [Ítem] が いちばん [Propiedad] です。\n(Dentro de [Grupo], [Ítem] es el más [propiedad])"
+                                         },
+                                         {
+                                             "text":  "アジアの中で（なかで）、どこがいちばん寒い（さむい）ですか。\nDentro de Asia, ¿cuál es el lugar más frío?\n\n季節（きせつ）の中で、いつがいちばん好き（すき）ですか。\nDe todas las estaciones del año, ¿cuál es la que más te gusta?"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  87,
+                         "title":  "Sustitución pronominal: Adjetivo/Sustantivo + の",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para evitar la repetición innecesaria de un sustantivo que ya ha quedado claro en el contexto, el japonés utiliza la partícula の como un pronombre sustituto (equivalente a \u0027el\u0027, \u0027la\u0027, \u0027uno\u0027, \u0027el de\u0027 en español).\n\nReglas de enlace:\n・い-adjetivo + の (Omitiendo el sustantivo)\n・な-adjetivo + な + の\n・Sustantivo + の (Equivale a \u0027el de / los de\u0027)",
+                                             "image":  "tabla_adjetivo_no.jpg"
+                                         },
+                                         {
+                                             "text":  "私は黒い（くろい）セーターを持っています（もっています）。赤い（あかい）のも持っています。\nTengo un suéter negro. También tengo uno rojo (uno del color rojo).\n\nこれはアナさんのかばんですか。いいえ、それはルシアさんのです。\n¿Este es el bolso de Ana? No, ese es el de Lucía.\n\n午前（ごぜん）の便（びん）があります。午前（ごぜん）のをお願い（おねがい）します。\nTenemos el vuelo de la mañana. Por favor, deme el de la mañana."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  88,
+                         "title":  "Expresión de planes: 〜つもりだ",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La estructura 〜つもりです expresa una intención firme, determinación o un plan que el hablante ha decidido realizar en el futuro. Se añade directamente después de la forma corta (plana) de los verbos en presente.\n\nEstructura:\n・Afirmativo: [Verbo Forma Corta Presente] + つもりです\n・Negativo: [Verbo Forma ない] + つもりです"
+                                         },
+                                         {
+                                             "text":  "私は韓国（かんこく）に行く（いく）つもりです。\nTengo la intención de ir a Corea.\n\nお金（かね）がないから、どこにも行かない（いかない）つもりです。\nComo no tengo dinero, mi plan es no ir a ningún lado."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  89,
+                         "title":  "Cambio de estado: Adjetivo/Sustantivo + なる",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "El verbo なる (volverse, convertirse en) se utiliza para describir un cambio cuantitativo, cualitativo o una transformación en la naturaleza de algo. Dependiendo de la palabra que le antecede, la regla cambia.",
+                                             "image":  "tabla_naru_transformacion.jpg"
+                                         },
+                                         {
+                                             "text":  "Reglas de transformación:\n・い-adjetivos: Se quita la い final y se añade く + なる (Ej. 寒い → 寒くなる)\n・な-adjetivos: Se quita la な y se añade に + なる (Ej. 静か → 静かになる)\n・Sustantivos: Se añade directamente に + なる (Ej. 会社員 → 会社員になる)"
+                                         },
+                                         {
+                                             "text":  "寒く（さむく）なりましたね。\nSe ha vuelto frío, ¿verdad? / Ha refrescado, ¿no?\n\n日本語（にほんご）の勉強（べんきょう）が楽しく（たのしく）なりました。\nEl estudio del japonés se ha vuelto divertido (ha pasado a ser divertido)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  90,
+                         "title":  "Indefinidos y Negativos: どこかに / どこにも",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Al combinar partículas interrogativas de lugar con か o も, modificamos su sentido hacia afirmaciones vagas o negaciones categóricas:\n\n・どこかに: A algún lugar / A alguna parte.\n・どこにも (+ Verbo en negativo): A ningún lugar / A ninguna parte."
+                                         },
+                                         {
+                                             "text":  "冬休み（ふゆやすみ）にどこかに行きました（いきました）か。\n¿Fuiste a algún lugar en las vacaciones de invierno?\n\nいいえ、どこにも行きませんでした（いきませんでした）。\nNo, no fui a ningún sitio.\n\nだれかに会いました（あいました）か。いいえ、だれにも会いませんでした。\n¿Te viste con alguien? No, no me vi con nadie."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  91,
+                         "title":  "Acciones alternativas y conectores: 〜たり、〜たりする / そして / それから",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La estructura 〜たり、〜たりする sirve para listar un par de acciones como ejemplos representativos de lo que se hace o se hizo en un periodo de tiempo, dando a entender que hubo más actividades sin necesidad de enumerarlas cronológicamente.\n\nEstructura:\n[Verbo 1 en Forma た] + り、[Verbo 2 en Forma た] + りする。\n\nPara hilar estas secuencias e ideas en un texto fluido, usamos:\n・そして: Conector oracional para añadir información o características (\u0027Y además\u0027).\n・それから: Secuenciador temporal para marcar eventos sucesivos (\u0027Después de eso\u0027, \u0027Y luego\u0027)."
+                                         },
+                                         {
+                                             "text":  "韓国（かんこく）で美味しい（おいしい）物を食べたり（たべたり）、買い物（かいもの）をしたりします。\nEn Corea comeré cosas ricas y haré compras, entre otras cosas.\n\n台湾（たいわん）のほうが暖かい（あたたかい）です。そして、物価（ぶっか）も安いです（やすいです）。\nTaiwán es más cálido. Y además, los precios son baratos.\n\nお土産（みやげ）を買ってきます（かってきます）。それから、写真（しゃしん）も見せます（みせます）。\nCompraré un recuerdo. Y después de eso, te enseñaré las fotos."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  92,
+                         "title":  "Un Vistazo a la Cultura",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "El sistema de transporte público japonés es mundialmente reconocido por su puntualidad y tecnología, especialmente en las grandes metrópolis. Los trenes, redes de metro y autobuses interconectan el país de manera impecable. El grupo Japan Railways (JR) gestiona la mayoría de las líneas e incluye los famosos trenes bala o Shinkansen (新幹線). Para los turistas extranjeros, el Japan Rail Pass ofrece viajes ilimitados durante periodos selectos.",
+                                             "image":  "transporte_publico.jpg"
+                                         },
+                                         {
+                                             "text":  "Si buscas moverte con un presupuesto mochilero o estudiantil, existe el billete Seishun 18 Kippu (青春18きっぷ). Este pase especial te permite disfrutar de cinco días de viajes ilimitados en cualquier tren local o rápido del país por un precio muy reducido, ideal para recorrer Japón con calma.",
+                                             "image":  "estacion_trenes.jpg"
+                                         },
+                                         {
+                                             "text":  "Como alternativa de larga distancia económica frente al tren bala, los autobuses de autopista (highway buses) son sumamente populares. Aunque tardan más tiempo, los autobuses nocturnos (夜行バス) están equipados con asientos reclinables muy cómodos y te permiten ahorrarte una noche entera de hotel mientras viajas hacia tu próximo destino."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  93,
+                         "title":  "Expresiones Útiles",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Guía esencial de vocabulario y expresiones para moverte por las estaciones de tren japonesas sin perderte:\n\nTipos de trenes:\n・普通（ふつう）: Tren local (para en todas las estaciones).\n・急行（きゅうこう）: Tren expreso.\n・特急（とっきゅう）: Tren super expreso (limitado).\n\nIndicación de dirección:\n・〜行き（いき）: Con destino a...\n・〜方面（ほうめん）: En dirección a... / Zona de...\n\nBilletes y asientos:\n・乗車券（じょうしゃけん）: Billete básico de tren.\n・切符売り場（きっぷうりば）: Zona de taquillas / máquinas de billetes.\n・定期券（ていきけん）: Abono de transporte mensual.\n・学割（がくわり）: Descuento para estudiantes.\n・指定席（していせき）: Asiento reservado.\n・自由席（じゆうせき）: Asiento libre (sin reserva).\n・禁煙車（きんえんしゃ）: Vagón de no fumadores.\n・一号車（いちごうしゃ）: Vagón número 1.\n・往復（おうふく）: Viaje de ida y vuelta.\n・片道（かたみち）: Viaje de solo ida.\n\nUbicaciones clave en la estación:\n・〜番線（ばんせん）: Andén número...\n・改札（かいさつ）: Puerta de acceso / Tornos de validación.\n・ホーム: El andén.\n・売店（ばいてん）: Quiosco / Tienda de andén.\n・出口（でぐち）: Salida.\n・入口（いりぐち）: Entrada.\n・階段（かいだん）: Escaleras.\n・いちばん前（まえ）: Al frente del todo / El primer vagón.\n・いちばん後ろ（うしろ）: Al fondo del todo / El último vagón.\n\nOtros términos útiles:\n・乗り換え（のりかえ）: Transbordo / Cambio de tren.\n・次発（じはつ）: Siguiente tren en salir.\n・先発（せんぱつ）: Próximo tren en salir (el inmediato).\n・終電（しゅうでん）: El último tren de la noche.",
+                                             "image":  "estacion_tren.jpg"
+                                         },
+                                         {
+                                             "text":  "Anuncios frecuentes que escucharás en los andenes y vagones:\n\n・まもなく発車（はっしゃ）します。\n→ El tren está a punto de salir.\n\n・電車（でんしゃ）が参ります（まいります）。\n→ El tren está llegando al andén.\n\n・次は〜に止まります（とまります）。\n→ La próxima parada es...\n\n・ドアが閉まります（しまります）。ご注意（ちゅうい）ください。\n→ Se cierran las puertas. Por favor, tengan cuidado."
+                                         },
+                                         {
+                                             "text":  "Preguntas habituales para viajeros en apuros:\n\n・この電車（でんしゃ）は秋葉原（あきはばら）に止まります（とまります）か。\n→ ¿Este tren para en Akihabara?\n\n・終電（しゅうでん）は何時（なんじ）ですか。\n→ ¿A qué hora pasa el último tren?\n\n・東京（とうきょう）までの指定席（指定せき）を一枚（いちまい）お願いします（おねがいします）。\n→ Un billete con asiento reservado para Tokio, por favor.\n\n・学割（がくわり）が使えます（つかえます）か。\n→ ¿Se puede aplicar el descuento de estudiante?"
+                                         },
+                                         {
+                                             "text":  "Ejemplo práctico de conversación:\n\nA: 鎌倉（かまくら）行きの電車（でんしゃ）はどれですか。\n(¿Cuál es el tren que va hacia Kamakura?)\n\nB: 二番線（にばんせん）です。\n(Es el del andén número dos.)"
+                                         }
+                                     ]
+                     }
+                 ],
+    "completed":  false,
+    "courseId":  1
+}

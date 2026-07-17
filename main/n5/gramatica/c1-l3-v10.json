@@ -1,0 +1,134 @@
+﻿{
+    "id":  3,
+    "title":  "Lección 3: ¡Quedemos!",
+    "completed":  false,
+    "courseId":  1,
+    "sections":  [
+                     {
+                         "id":  21,
+                         "title":  "Diálogo:",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "1) Lucía y Kenji miran un plano en el campus antes de salir a pasar la tarde por Tokio.",
+                                             "image":  "dialogo_fin_de_semana.jpg"
+                                         },
+                                         {
+                                             "text":  "ケンジ：ルシアさん、ここに駅(えき)の地図(ちず)がありますよ。どこに行(い)きますか。\n\nルシア：新宿(しんじゅく)のカフェへ行(い)きます。そこに友達(ともだち)がいますから。\n\nケンジ：新宿(しんじゅく)ですか！ここから新宿(しんじゅく)まで近(ちか)いですよ。駅(えき)の前(まえ)に綺麗(きれい)な庭園(ていえん)もありますよ。\n\nルシア：いいですね！じゃあ、行(い)く前(まえ)にそこへ行(い)きましょう。\n\nKenji: Lucía, aquí hay un mapa de la estación. ¿A dónde vas?\n\nLucía: Voy hacia una cafetería de Shinjuku. Es que allí está mi amigo.\n\nKenji: ¡¿A Shinjuku?! Desde aquí hasta Shinjuku está cerca. Delante de la estación también hay un jardín precioso.\n\nLucía: Qué bien. Entonces, antes de ir, vayamos allí.",
+                                             "image":  "dialogo_fin_de_semana.jpg"
+                                         },
+                                         {
+                                             "text":  "2) Por la mañana, en la entrada de la Shared House donde vive Lucía.",
+                                             "image":  "casa_familia_acogida.jpg"
+                                         },
+                                         {
+                                             "text":  "ハウスメイト：ルシアさん、おはよう。出(で)かける前(まえ)に朝(あさ)ご飯(ごはん)を食(た)べますか。\n\nルシア：いいえ、カフェで食(た)べます。あそこに猫(ねこ)がいますね！かわいい。\n\nハウスメイト：ええ、玄関(げんかん)の前(まえ)にいつもいますよ。じゃあ、いってらっしゃい。\n\nルシア：いってきます！\n\nCompañero: Lucía, buenos días. ¿Vas a desayunar antes de salir?\n\nLucía: No, comeré en la cafetería. ¡Allí hay un gato! Qué mono.\n\nCompañero: Sí, siempre está delante del recibidor. Bueno, que tengas un buen día.\n\nLucía: ¡Me voy!",
+                                             "image":  "casa_familia_acogida.jpg"
+                                         },
+                                         {
+                                             "text":  "Una shared house es una casa compartida, donde varias personas viven juntas y comparten espacios comunes como la cocina, el baño o el salón. En Japón, este tipo de alojamiento es muy popular entre estudiantes y jóvenes profesionales, ya que permite reducir costos y conocer a otras personas.\nPuedes tener una habitación privada o compartida con otras personas, obviamente, separado por sexos. Aunque el baño suele ser común. ¡Cuidado! Algunas shared house tienen reglas estrictas sobre el uso de los espacios comunes, la limpieza y el ruido, así que es importante informarse antes de mudarse. \nOtras incluso tienen un pequeño coste (tipo 100 yenes) por usar la lavadora o la secadora, hasta la ducha así que conviene preguntar antes de usarla."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  22,
+                         "title":  "ここ、そこ、あそこ、どこ",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para señalar ubicaciones y lugares dependiendo de la distancia a la que se encuentren de ti y de la persona con la que hablas, usamos la conocida regla 「こ・そ・あ・ど」:\n\n・ここ : Aquí (cerca de mí).\n・そこ : Ahí (cerca de ti).\n・あそこ : Allí (lejos de los dos).\n・どこ : ¿Dónde?"
+                                         },
+                                         {
+                                             "text":  "ここに駅（えき）の地図（ちず）があります。\nAquí está el mapa de la estación.\n\n学校（がっこう）はどこですか。\n¿Dónde está la escuela?"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  23,
+                         "title":  "あります y います",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Ambos verbos significan \"haber\", \"existir\" o incluso \"tener\", pero la frontera para elegir uno u otro es tajante: depende de si hablamos de algo inerte o de un ser vivo.\n\n・あります : Se usa para objetos inanimados, plantas, conceptos o cosas que no tienen voluntad ni movimiento propio (un mapa, un lápiz o un plato de ramen).\n\n・います : Se usa para personas y animales (seres con capacidad de moverse por sí mismos).\n\n¡Cuidado! Aunque en español uses el verbo \"tener\" para todo (\"tengo un lápiz\", \"tengo novio\"), en japonés nunca uses あります con personas. Decir que tu novio 「あります」 suena a que es un objeto de tu propiedad, y no nos gusta la esclavitud ¿Verdad?. Las personas y las mascotas siempre existen con います. \nAdemás, gramaticalmente no tiene ningún sentido, porque en japonés, se consideran verbos diferentes, independientemente de su significado en español, inglés o idiomas similares."
+                                         },
+                                         {
+                                             "text":  "地図（ちず）があります。\nHay un mapa. / Tengo un mapa.\n\n猫（ねこ）がいます。\nHay un gato. / Tengo un gato."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  24,
+                         "title":  "Partículas に y で",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Es facilísimo confundirlas al principio, pero tienen misiones muy diferentes:\n\n・に : Indica localización estática. Es el punto exacto donde algo simplemente \"está\" o \"existe\" de forma inmóvil (va de la mano con あります e います).\n\n・で : Indica el lugar de la acción. Es el escenario donde haces algo dinámico (como hacer fotos, comer o estudiar)."
+                                         },
+                                         {
+                                             "text":  "東京（とうきょう）にいます。\nEstoy en Tokio (Ubicación).\n\nカフェで食（た）べます。\nComo en la cafetería (Acción)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  25,
+                         "title":  "Dirección (に / へ) y Límite (まで)",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para indicar la dirección de tu movimiento, puedes usar la partícula に o la partícula へ (que se pronuncia \u0027e\u0027) indistintamente cuando vas hacia un destino. Por otro lado, まで se traduce como \"hasta\" e indica el punto o límite final de un trayecto."
+                                         },
+                                         {
+                                             "text":  "新宿（しんじゅく）へ行（い）きます。\nVoy hacia Shinjuku.\n\nここから新宿（しんじゅく）まで。\nDesde aquí hasta Shinjuku."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  26,
+                         "title":  "前（まえ）に",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La estructura 前（まえ）に funciona en dos dimensions en este nivel:\n\n1. Espacial: Indica que algo está físicamente delante de una referencia (Sustantivo + の + 前に).\n2. Temporal: Indica que haces algo justo antes de otra acción (Verbo en forma diccionario + 前に)."
+                                         },
+                                         {
+                                             "text":  "駅（えき）の前（まえ）にあります。\nEstá delante de la estación.\n\n行（い）く前（まえ）にそこへ行（い）きましょう。\nAntes de ir, vayamos allí."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  27,
+                         "title":  "Expresiones Útiles",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "En japonés, para hablar de ir o venir a un lugar, se usan los verbos 行く (iku, ir) y 来る (kuru, venir). Si te desplazas hacia donde está la persona con la que hablas, se usa 来る (venir), aunque en español diríamos \u0027voy\u0027. Si te alejas del lugar donde está tu interlocutor, se usa 行く (ir)."
+                                         },
+                                         {
+                                             "text":  "La palabra ちょっと (chotto) significa literalmente \u0027un poco\u0027, como en ちょっと待ってください (espere un momento). Sin embargo, en las conversaciones cotidianas, se usa a menudo para rechazar una invitación de forma educada. En estos casos, equivale a decir \u0027es un poco difícil\u0027 o \u0027no puedo\u0027, evitando un \u0027no\u0027 directo, que en japonés puede sonar brusco o poco cortés."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  28,
+                         "title":  "Un Vistazo a la Cultura",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Casas japonesas 日本の家 (にほんのいえ)\n\nEn Japón, las casas tradicionales se construían principalmente de madera. Las habitaciones solían tener suelo de tatami (esterillas de arroz) y se separaban con fusuma o shooji, que son tipos de puertas correderas.",
+                                             "image":  "fusuma_tatami_shooji.jpg"
+                                         },
+                                         {
+                                             "text":  "En la actualidad, muchas casas japonesas tienen habitaciones de estilo occidental y están equipadas con baños e inodoros modernos. Sin embargo, se conservan algunas costumbres tradicionales, como separar el inodoro del resto del baño y disponer de un espacio para lavarse antes de entrar en la bañera.",
+                                             "image":  "japanese_bathroom.jpg"
+                                         },
+                                         {
+                                             "text":  "En los baños tradicionales japoneses, el inodoro suele estar en una habitación separada del área de baño, y es común que toda la familia comparta el agua de la bañera, por lo que es importante lavarse bien antes de entrar."
+                                         },
+                                         {
+                                             "text":  "Un elemento típico de las casas japonesas es el genkan (玄関), una entrada o recibidor donde se dejan los zapatos antes de entrar. Es habitual encontrar zapatillas de casa preparadas para su uso.",
+                                             "image":  "genkan.jpg"
+                                         }
+                                     ]
+                     }
+                 ]
+}

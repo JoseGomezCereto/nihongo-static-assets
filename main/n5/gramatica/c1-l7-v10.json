@@ -1,0 +1,181 @@
+﻿{
+    "id":  7,
+    "title":  "Lección 7: Fotos y Planes",
+    "sections":  [
+                     {
+                         "id":  60,
+                         "title":  "Diálogo",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "I) Lucía enseña a Ana fotos de sus amigos en España.",
+                                             "image":  "foto_familia.jpg"
+                                         },
+                                         {
+                                             "text":  "アナ：その写真(しゃしん)、誰(だれ)ですか。\n\nルシア：大学(だいがく)の友(とも)だちです。\n\nアナ：ルシアさんはどれですか。\n\nルシア：これです。髪(かみ)が短(みじか)かった時(とき)の写真(しゃしん)です。\n\nアナ：へえ、かわいいですね。この背(せ)が高(たか)い人(ひと)は？\n\nルシア：兄(あに)です。今(いま)、スペインの銀行(ぎんこう)で働(はたら)いています。\n\nアナ：かっこいいですね。結婚(けっこん)していますか。\n\nルシア：いいえ、独身(どくしん)です。あ、その隣(となり)にいるのは私(わたし)の姪(めい)です。六歳(ろくさい)です。\n\nアナ：わあ、元気(げんき)そうな子(こ)ですね！"
+                                         },
+                                         {
+                                             "text":  "Ana: ¿Quién es esa persona en la foto?\n\nLucía: Es una amiga de la universidad.\n\nAna: ¿Cuál eres tú?\n\nLucía: Esta. Es una foto de cuando tenía el pelo corto.\n\nAna: Oh, qué mona. ¿Y quién es ese alto?\n\nLucía: Es mi hermano mayor. Trabaja en un banco en España ahora.\n\nAna: Es guapo. ¿Está casado?\n\nLucía: No, está soltero. Ah, la que está a su lado es mi sobrina. Tiene seis años.\n\nAna: ¡Vaya, qué niña tan llena de energía!"
+                                         },
+                                         {
+                                             "text":  "II) Carlos llama a Ana para un plan."
+                                         },
+                                         {
+                                             "text":  "カルロス：もしもし、アナさん？今(いま)何(なに)をしていますか。\n\nアナ：ルシアさんの写真(しゃしん)を見(み)ています。\n\nカルロス：ケンジと新(あたら)しいゲームを買(か)いました。今(いま)から遊(い)びに来(き)ませんか。\n\nアナ：いいですね。ルシアさんも一緒(いっしょ)に行(い)ってもいいですか。\n\nカルロス：もちろん。待(ま)っていますよ。\n\nアナ：じゃあ、すぐに行(い)きます！"
+                                         },
+                                         {
+                                             "text":  "Carlos: ¿Hola, Ana? ¿Qué estás haciendo ahora?\n\nAna: Estoy viendo las fotos de Lucía.\n\nCarlos: Kenji y yo hemos comprado un juego nuevo. ¿Queréis venir a jugar ahora?\n\nAna: ¡Qué bien! ¿Puede ir Lucía también?\n\nCarlos: Por supuesto. Os espero.\n\nAna: ¡Vale, vamos ahora mismo!"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  61,
+                         "title":  "〜ている",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La forma 〜ている se usa en japonés para expresar dos ideas principales:\n\n(a) Una acción en progreso (algo que está ocurriendo ahora mismo).\n(b) Un estado o resultado de una acción pasada que sigue teniendo relevancia en el presente.\n\nLa interpretación depende del tipo de verbo y el contexto."
+                                         },
+                                         {
+                                             "text":  "Los verbos se dividen en tres grupos según su significado:\n\n1) Verbos que describen estados continuos (como ある y いる, que no se usan con 〜ている).\n2) Verbos que describen actividades que duran un tiempo (como comer, leer, esperar).\n3) Verbos que describen cambios instantáneos (como casarse, sentarse, ponerse de pie)."
+                                         },
+                                         {
+                                             "text":  "Ejemplo de acción en progreso:\n\nカルロスさんは今(いま)勉強(べんきょう)しています。\nCarlos está estudiando ahora.\n\nアナさんは英語(えいご)の本(ほん)を読(よ)んでいます。\nAna está leyendo un libro de inglés."
+                                         },
+                                         {
+                                             "text":  "También puedes usar 〜ています para hablar de hábitos o profesiones:\n\n私(わたし)は日本語(にほんご)を教(おし)えています。\nEnseño japonés (habitualmente)."
+                                         },
+                                         {
+                                             "text":  "Ejemplo de estado o resultado de un cambio:\n\nケンジさんは結婚(けっこん)しています。\nKenji está casado.\n\nすずきさんは窓(まど)の近(ちか)くに座(すわ)っています。\nSuzuki está sentado cerca de la ventana."
+                                         },
+                                         {
+                                             "text":  "Más ejemplos útiles:\n\nカルロスさんはお金(おかね)をたくさん持(も)っています。\nCarlos tiene mucho dinero.\n\nケンジさんはアナさんを知(し)っています。\nKenji conoce a Ana.\n\nアナさんの猫(ねこ)はちょっと太(ふと)っています。\nEl gato de Ana está un poco gordito.\n\n私(わたし)の弟(おとうと)はとてもやせています。\nMi hermano pequeño está muy delgado.\n\nルシアさんはTシャツを着(き)ています。\nLucía lleva puesta una camiseta."
+                                         },
+                                         {
+                                             "text":  "¡Ojo! Verbos como 行(い)く (ir) y 来(く)る (venir) en la forma 〜ている indican el estado actual tras un movimiento, no una acción en progreso:\n\nカルロスさんは中国(ちゅうごく)に行(い)っています。\nCarlos ha ido a China (y está allí).\n\nアナさんはうちに来(き)ています。\nAna ha venido a casa (y está aquí)."
+                                         },
+                                         {
+                                             "text":  "Conjugación de 〜ている:\n\nPresente afirmativo: 食(た)べています (está comiendo)\nPresente negativo: 食(た)べていません (no está comiendo)\nPasado afirmativo: 食(た)べていました (estaba comiendo)\nPasado negativo: 食(た)べていませんでした (no estaba comiendo).",
+                                             "image":  "te_iru_conjugacion.jpg"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  62,
+                         "title":  "カルロスさんは長い(ながい)髪(かみ)です",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "En japonés, para decir que alguien tiene el pelo largo, lo más natural es usar la estructura:\n\n[Nombre] は [parte del cuerpo] が [adjetivo] です。\n\nPor ejemplo:"
+                                         },
+                                         {
+                                             "text":  "カルロスさんは髪(かみ)が長い(ながい)です。\nCarlos tiene el pelo largo."
+                                         },
+                                         {
+                                             "text":  "Aunque podrías decir:\n\nカルロスさんの髪(かみ)は長い(ながい)です。\nEl pelo de Carlos es largo.\n\nLa primera forma es mucho más común y natural en japonés."
+                                         },
+                                         {
+                                             "text":  "Esta estructura se usa para describir otras partes del cuerpo y atributos físicos:\n\nアナさんは目(め)が大きい(おおきい)です。\nAna tiene los ojos grandes.\n\nケンジさんは足(あし)が速い(はやい)です。\nKenji corre rápido (tiene las piernas rápidas).\n\nすずきさんは背(せ)が高い(たかい)です。\nSuzuki es alto.\n\nルシアさんは頭(あたま)がいいです。\nLucía es inteligente."
+                                         },
+                                         {
+                                             "text":  "Otras expresiones comunes con partes del cuerpo:\n\nA さんは目(め)が青い(あおい)です - A tiene los ojos azules\nA さんは耳(みみ)が大きい(おおきい)です - A tiene las orejas grandes\nA さんは鼻(はな)が小さい(ちいさい)です - A tiene la nariz pequeña\nA さん es 手(て)がかわいいです - A tiene las manos bonitas"
+                                         },
+                                         {
+                                             "text":  "Recuerda: Para hablar de partes del cuerpo, es común usar が en vez de は, y el adjetivo va al final. Esta estructura es mucho más natural que usar の."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  63,
+                         "title":  "Forma Te para unir oraciones",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La forma て (te) no solo sirve para hacer peticiones, también se usa para unir dos frases y formar oraciones más largas. Puedes conectar acciones, adjetivos o ideas usando la forma te."
+                                         },
+                                         {
+                                             "text":  "Tabla de transformación a forma て:",
+                                             "image":  "tabla_forma_te_union.jpg"
+                                         },
+                                         {
+                                             "text":  "い-adjetivos: cambia い por くて\n安い(やすい) → 安くて(やすくて)\nいい → よくて (irregular)\n\nな-adjetivos: añade で\n元気(げんき)な → 元気で(げんきで)\n\nSustantivos + です: añade で\n日本人(にほんじん)です → 日本人で(にほんじんで)"
+                                         },
+                                         {
+                                             "text":  "Ejemplos:\n\nこのレストランの食べ物(たべもの)は安くて(やすくて)、おいしいです。\nLa comida de este restaurante es barata y deliciosa.\n\nホテルはきれいで、よかったです。\nEl hotel era limpio y estuvimos contentos."
+                                         },
+                                         {
+                                             "text":  "También puedes unir dos acciones:\n\n朝ご飯(あさごはん)を食(た)べて、学校(がっこう)に行(い)きます。\nDesayuno y voy a la escuela.\n\nカルロスさんは本(ほん)を読(よ)んで、寝(ね)ました。\nCarlos leyó un libro y se durmió."
+                                         },
+                                         {
+                                             "text":  "Esta estructura te permite describir varias características o acciones en una sola frase, haciendo tu japonés más natural y fluido."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  64,
+                         "title":  "Raíz del verbo + に行(い)く",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para expresar que vas a algún lugar con el propósito de hacer algo, usa la raíz del verbo (la forma sin ます) seguida de に行(い)く, に来(く)る o に帰(かえ)る.",
+                                             "image":  "tabla_raiz_verbo_ni_iku.jpg"
+                                         },
+                                         {
+                                             "text":  "Estructura:\n[lugar] に [verbo en raíz] に行(い)きます / に来(く)ます / に帰(かえ)ります"
+                                         },
+                                         {
+                                             "text":  "Ejemplo:\n\nデパートにかばんを買(か)いに行(い)きました。\nFui a unos grandes almacenes para comprar un bolso.\n\nアナさんは日本(にほん)に日本語(にほんご)を勉強(べんきょう)しに来(き)ました。\nAna vino a Japón para estudiar japonés."
+                                         },
+                                         {
+                                             "text":  "La raíz del verbo se obtiene quitando ます de la forma larga:\n食(た)べます → 食(た)べ\n読(よ)みます → 読(よ)み\n\nTambién puedes usar sustantivos como 買い物(かいもの) (compras):\nデパートに買い物(かいもの)に行(い)きました。\nFui a unos grandes almacenes de compras."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  65,
+                         "title":  "Contar personas",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para contar personas en japonés se usa el contador 〜人(にん), pero \u0027una persona\u0027 y \u0027dos personas\u0027 son irregulares: ひとり (一人, ひとり) y ふたり (二人, ふたり)."
+                                         },
+                                         {
+                                             "text":  "ひとり（一人, ひとり）- una persona\nふたり（二人, ふたり）- dos personas\nさんにん（三人, さんにん）- tres personas\nよにん（四人, よにん）- cuatro personas\nごにん（五人, ごにん）- cinco personas\nろくにん（六人, ろくにん）- seis personas\nしちにん／ななにん（七人, しちにん／ななにん）- siete personas\nはちにん（八人, はちにん）- ocho personas\nきゅうにん（九人, きゅうにん）- nueve personas\nじゅうにん（十人, じゅうにん）- diez personas"
+                                         },
+                                         {
+                                             "text":  "Para preguntar cuántas personas hay, usa:\n\n何人(なんにん)いますか。\n¿Cuántas personas hay?"
+                                         },
+                                         {
+                                             "text":  "Para decir cuántas personas hay en un grupo:\n\n私(わたし)のクラスにスペイン人(じん)の学生(がくせい)が一人(ひとり)います。\nEn mi clase hay un estudiante español."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  66,
+                         "title":  "Expresiones Útiles",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Términos de parentesco (Kinship terms):\n\nEn japonés, el término que usas para referirte a los miembros de la familia depende de si hablas de tu familia, la de otros, o si te diriges directamente a ellos. Aquí tienes los más comunes:"
+                                         },
+                                         {
+                                             "text":  "Padre: お父さん(おとうさん) (otros) / 父(ちち) (formal propio) / お父さん・パパ (al hablar con él)\nMadre: お母さん(おかあさん) / 母(はは) / お母さん・ママ\nHermano mayor: お兄さん(おにいさん) / 兄(あに) / お兄さん・お兄ちゃん\nHermana mayor: お姉さん(おねえさん) / 姉(あね) / お姉さん・お姉ちゃん\nHermano menor: 弟さん(おとうとさん) / 弟(おとうと)\nHermana menor: 妹さん(いもうとさん) / 妹(いもうと)\nHijo: お子さん(おこさん) / うちの子(こ)\nAbuelo: おじいさん / 祖父(そふ) / おじいさん・おじいちゃん\nAbuela: おばあさん / 祖母(そぼ) / おばあさん・おばあちゃん\nEsposo: ご主人(ごしゅじん) / 主人(しゅじん)・夫(おっと) / だんな・うちの人(ひと)\nEsposa: 奥さん(おくさん) / 家内(かない)・妻(つま) / 奥さん・嫁さん(よめさん)"
+                                         },
+                                         {
+                                             "text":  "Ejemplo:\n田中(たなか)さんのお父さん(おとうさん)は何歳(なんさい)ですか。\n¿Cuántos años tiene el padre de Tanaka?\n\n私(わたし)の父(ちち)は五十歳(ごじゅっさい)です。\nMi padre tiene 50 años."
+                                         },
+                                         {
+                                             "text":  "Partes del cuerpo (体(からだ)の部分(ぶぶん)):"
+                                         },
+                                         {
+                                             "text":  "かみ（髪(かみ)）- pelo\nめ（目(め)）- ojo\nみみ（耳(みみ)）- oreja\nくち（口(くち)）- boca\nて（手(て)）- mano\nゆび（指(ゆび)）- dedo\nは（歯(は)）- diente\nはな（鼻(はな)）- nariz\nくび（首(くび)）- cuello\nあたま（頭(あたま)）- cabeza\nかお（顔(かお)）- cara\nかた（肩(かた)）- hombro\nむね（胸(むね)）- pecho\nせなか（背中(せなか)）- espalda\nおなか - barriga\nおしり - trasero\nあし（足(あし)）- pierna/pie"
+                                         },
+                                         {
+                                             "text":  "----------------------------------------\n\n🎯 APÉNDICE JLPT N5: Obligación, Prohibición y Reglas\n\nPara cumplir con las directrices oficiales del nivel N5 en esta lección, añadimos el uso de las normas y prohibiciones derivadas de la forma て (te) y la forma ない (nai):\n\n1) Prohibición Estricta (てはいけない / ちゃいけない):\nSirve para indicar que algo no está permitido.\n- ここで写真(しゃしん)を撮(と)ってはいけません。 (No se debe tomar fotos aquí).\n- En lenguaje coloquial, 〜ては se contrae en 〜ちゃ: ここで遊(あそ)んじゃいけないよ。 (No se puede jugar aquí).\n\n2) Obligación Cívica y Personal (ないといけない / なくてはいけない / なくてはならない):\nExpresan la necesidad imperiosa de realizar una acción (\u0027tener que...\u0027).\n- 明日(あした)は早く(はやく)起き(おき)ないといけない。 (Tengo que levantarme temprano mañana - Común/Hablado).\n- 宿題(しゅくだい)を提出(ていしゅつ)しなくてはいけません。 (Es obligatorio entregar la tarea - Estándar).\n- 規則(きそく)を守(まも)らなくてはなりません。 (Se debe cumplir el reglamento - Formal/Institucional).\n\n3) Sin Obligación (なくてもいい):\nIndica que una acción no es obligatoria o no es necesaria.\n- 今日(きょう)は宿題(しゅくだい)をしなくてもいいですよ。 (Hoy no hace falta que hagas los deberes)."
+                                         }
+                                     ]
+                     }
+                 ],
+    "completed":  false,
+    "courseId":  1
+}

@@ -1,0 +1,136 @@
+﻿{
+    "id":  4,
+    "title":  "Lección 4: Encuentros en la ciudad",
+    "completed":  false,
+    "courseId":  1,
+    "sections":  [
+                     {
+                         "id":  32,
+                         "title":  "Diálogo",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "1) Lucía va al centro de la ciudad y pregunta a un transeúnte.",
+                                             "image":  "centro_ciudad.jpg"
+                                         },
+                                         {
+                                             "text":  "ルシア：すみません。郵便局(ゆうびんきょく)はどこですか。\n\n男性(だんせい)：あそこに大(おお)きなビルがありますね。郵便局(ゆうびんきょく)はそのビルのとなりですよ。\n\nルシア：ありがとうございます。"
+                                         },
+                                         {
+                                             "text":  "Lucía: Disculpe, ¿dónde está la oficina de correos?\n\nHombre: Allí hay un edificio grande. La oficina de correos está al lado de ese edificio.\n\nLucía: Muchas gracias."
+                                         },
+                                         {
+                                             "text":  "2) Por la tarde, Lucía regresa a la Shared House tras una larga espera."
+                                         },
+                                         {
+                                             "text":  "ルシア：ただいま。\n\nハウスメイト：おかえり。カフェはどうでしたか。\n\nルシア：行(い)きませんでした。ケンジさんは来(き)ませんでした。\n\nハウスメイト：えっ、どうしてですか。\n\nルシア：わかりません。だから、一人(ひとり)で美術館(びじゅつかん)と公園(こうえん)に行(い)きました。\n\nハウスメイト：人(ひと)がたくさんいましたか。\n\nルシア：はい。公園(こうえん)で鳥(とり)の動画(どうが)をたくさん撮(と)りました。駅前(えきまえ)にも行(い)きました。はい、お土産(みやげ)のクッキーです。\n\nハウスメイト：ありがとう。",
+                                             "image":  "casa_acogida_tarde.jpg"
+                                         },
+                                         {
+                                             "text":  "Lucía: Ya estoy en casa.\n\nCompañero: Bienvenida. ¿Qué tal el café?\n\nLucía: No fui. Kenji no vino.\n\nCompañero: ¿Eh? ¿Por qué?\n\nLucía: No lo sé. Así que fui sola al museo y al parque.\n\nCompañero: ¿Había mucha gente?\n\nLucía: Sí. Grabé muchos vídeos de pájaros en el parque. También fui a la zona de la estación. Aquí tienes unas galletas de regalo.\n\nCompañero: Gracias."
+                                         },
+                                         {
+                                             "text":  "3) Al día siguiente, Lucía se encuentra con Kenji en la escuela de idiomas."
+                                         },
+                                         {
+                                             "text":  "ルシア：あっ、ケンジさん。正直(しょうじき)に言(い)ってください。昨日(きのう)来(き)なかったでしょう？\n\nケンジ：行(い)きましたよ！駅(えき)の北口(きたぐち)で一時間(いちじかん)待(ま)ちました。でも、ルシアさんがいませんでした。\n\nルシア：北口(きたぐち)じゃないですよ。南口(みなみぐち)ですよ！どうやって間違(まちが)えましたか。\n\nケンジ：えっ、南口(みなみぐち)……ごめんなさい！",
+                                             "image":  "escuela_siguiente_dia.jpg"
+                                         },
+                                         {
+                                             "text":  "Lucía: ¡Ah, Kenji! Dime la verdad, ayer no viniste, ¿verdad?\n\nKenji: ¡Sí fui! Esperé una hora en la salida norte de la estación. Pero tú no estabas.\n\nLucía: ¡No era la salida norte! ¡Era la sur! ¿Cómo te has podido equivocar?\n\nKenji: ¿Eh? ¿La salida sur...? ¡Lo siento mucho!"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  33,
+                         "title":  "どうして y から",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para preguntar la razón de algo, usamos el interrogativo どうして (¿Por qué?). Es una palabra clave para entender las motivaciones de la gente en el día a día."
+                                         },
+                                         {
+                                             "text":  "どうして来(き)ませんでしたか。\n¿Por qué no viniste?"
+                                         },
+                                         {
+                                             "text":  "Para responder y dar una explicación o justificar una causa, usamos la partícula から (Porque... / Ya que...). Al contrario que en español, から se coloca siempre al final de la frase que explica la razón."
+                                         },
+                                         {
+                                             "text":  "時間(じかん)がありませんから。\nPorque no tengo tiempo.\n\n友達(ともだち)がそこにいますから、新宿(しんじゅく)へ行(い)きます。\nVoy a Shinjuku porque mi amigo está allí."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  34,
+                         "title":  "どうやって",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Cuando no quieres saber el \u0027por qué\u0027, sino el \u0027cómo\u0027 se hace algo o la manera de llegar a un sitio, la palabra mágica es どうやって."
+                                         },
+                                         {
+                                             "text":  "どうやって駅(えき)へ行(い)きますか。\n¿Cómo se va a la estación?\n\nどうやって勉強(べんきょう)しますか。\n¿Cómo estudias?"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  35,
+                         "title":  "Partícula が",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La partícula が tiene dos funciones críticas:\n\n1. Sujeto focalizado: Cuando queremos resaltar \u0027quién\u0027 realiza la acción, especialmente si es una información nueva o el centro de la respuesta.\n2. Conector de contraste suave: Une dos oraciones indicando un giro o adversativa (pero). A diferencia de \u0027でも\u0027 (que empieza una frase nueva), \u0027が\u0027 permite conectar ideas dentro de una misma oración, dándole una fluidez natural."
+                                         },
+                                         {
+                                             "text":  "昨日（きのう）、お店（みせ）に行きましたが、閉（し）まっていました。\nFui a la tienda ayer, pero estaba cerrada."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  36,
+                         "title":  "Contraste y lógica: でも, けど y けれども",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "En japonés existen varias maneras de decir \u0027pero\u0027 o \u0027sin embargo\u0027, y elegir una u otra depende de dónde la coloques y de cuánta formalidad quieras aportar:\n\n・でも : Se usa siempre al principio de una frase nueva. Es el \u0027Pero...\u0027 de toda la vida y es muy común en el habla cotidiana.\n\n・けど : Es un conector que une dos oraciones en una sola frase. Es de carácter coloquial y suaviza mucho el impacto de lo que dices.\n\n・けれども : Hace exactamente el mismo trabajo que けど, pero es mucho más formal, ideal para usarlo con profesores, jefes o desconocidos en la calle."
+                                         },
+                                         {
+                                             "text":  "一時間(いちじかん)待(ま)ちました。でも、来(き)ませんでした。\nEsperé una hora. Pero no vino.\n\nマクドナルドに行(い)ったけど、ケンジさんがいませんでした。\nFui al McDonald\u0027s, pero Kenji no estaba.\n\n京都(きょうと)へ行(い)きますけれども、一緒(いっしょ)に行(い)きますか。\nVoy a ir a Kioto, pero ¿vienes conmigo?"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  37,
+                         "title":  "Expresiones Útiles",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Días de la semana:\n・日曜日(にちようび) - Domingo\n・月曜日(げつようび) - Lunes\n・火曜日(かようび) - Martes\n・水曜日(すいようび) - Miércoles\n・木曜日(もくようび) - Jueves\n・金曜日(きんようび) - Viernes\n・土曜日(どようび) - Sábado"
+                                         },
+                                         {
+                                             "text":  "Meses del año:\n・1月(いちがつ) - Enero\n・2月(にがつ) - Febrero\n・3月(さんがつ) - Marzo\n・4月(しがつ) - Abril\n・5月(ごがつ) - Mayo\n・6月(ろくがつ) - Junio\n・7月(しちがつ) - Julio\n・8月(はちがつ) - Agosto\n\n*¡Cuidado con estos tres meses! Su pronunciación es irregular:\n・4月(しがつ) - Abril\n・7月(しちがつ) - Julio\n・9月(くがつ) - Septiembre\n\n・10月(じゅうがつ) - Octubre\n・11月(じゅういちがつ) - Noviembre\n・12月(じゅうにがつ) - Diciembre"
+                                         },
+                                         {
+                                             "text":  "Línea del tiempo básica:\n・おととい - Anteayer\n・きのう - Ayer\n・きょう - Hoy\n・あした - Mañana\n・あさって - Pasado mañana\n\n・せんしゅう - La semana pasada\n・こんしゅう - Esta semana\n・らいしゅう - La semana que viene\n\n・せんげつ - El mes pasado\n\n・こんげつ - Este mes\n・らいげつ - El mes que viene\n\n・きょねん - El año pasado\n・ことし - Este año\n・らいねん - El año que viene"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  38,
+                         "title":  "Un vistazo a la cultura",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Festivos nacionales en Japón\n\nEn Japón hay varios días festivos nacionales (祝日 しゅくじつ) a lo largo del año que paralizan el país. Muchos de ellos tienen un profundo significado histórico o de respeto a la naturaleza.",
+                                             "image":  "festivos_japon.jpg"
+                                         },
+                                         {
+                                             "text":  "Los festivos fijos y móviles más importantes incluyen el Año Nuevo (元日 - がんじつ) el 1 de enero, el Día de la Mayoría de Edad (成人の日 - せいじんのひ) en enero, o los equinoccios de primavera y otoño. También destacan días dedicados al respeto a los mayores o a la cultura."
+                                         },
+                                         {
+                                             "text":  "El momento cumbre del turismo nacional ocurre entre el 29 de abril y el 5 de mayo. Este período se conoce como la \u0027Semana Dorada\u0027 (ゴールデンウィーク). Al encadenarse cuatro festivos nacionales en pocos días (el Día de Showa, el Día de la Constitución, el Día del Verde y el Día del Niño), la gran mayoría de las empresas cierran y los transportes se llenan por completo, ya que todo el mundo aprovecha para viajar."
+                                         }
+                                     ]
+                     }
+                 ]
+}

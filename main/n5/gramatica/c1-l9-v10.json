@@ -1,0 +1,123 @@
+﻿{
+    "id":  9,
+    "title":  "Lección 9: Teatro Kabuki",
+    "completed":  false,
+    "courseId":  1,
+    "sections":  [
+                     {
+                         "id":  77,
+                         "title":  "Diálogo",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Lucía y Kenji están hablando."
+                                         },
+                                         {
+                                             "text":  "ケンジ：ルシアさん、今度(こんど)の木曜日(もくようび)、何(なに)か予定(よてい)ありますか。伝統文化(でんとうぶんか)を見(み)に行(い)きませんか。\nルシア：伝統文化(でんとうぶんか)ですか。何(なに)がいいですか。\nケンジ：歌舞伎(かぶき)か能(のう)か、相撲(すもう)はどうですか。\nルシア：能(のう)は少(すこ)し難(むずか)しそうですね。それに相撲(すもう)はスポーツだから興味(きょうみ)がありません。\nケンジ：じゃあ、歌舞伎(かぶき)はどうですか。チケットを二枚(にまい)もらいましたから、一緒(いっしょ)に行(い)きましょう。\nルシア：歌舞伎(かぶき)ですか。ぜひお願(ねが)いします。いつですか。\nケンジ：木曜日(もくようび)です。十二時(じ)から四時(じ)までです。",
+                                             "image":  "kabuki.jpg"
+                                         },
+                                         {
+                                             "text":  "Kenji: Lucía, ¿tienes planes para el próximo jueves? ¿Te gustaría ir a ver algo de cultura tradicional?\nLucía: ¿Cultura tradicional? ¿Qué me sugieres?\nKenji: ¿Kabuki, Noh o quizás Sumo?\nLucía: El Noh parece un poco difícil. Y el Sumo es un deporte, así que no me interesa.\nKenji: Entonces, ¿qué tal Kabuki? Conseguí dos entradas, así que vayamos juntos.\nLucía: ¿Kabuki? Me encantaría. ¿Cuándo es?\nKenji: El jueves. De doce a cuatro."
+                                         },
+                                         {
+                                             "text":  "\n\n----------------------------------------\n\n"
+                                         },
+                                         {
+                                             "text":  "Desupués, en el teatro de Kabuki."
+                                         },
+                                         {
+                                             "text":  "ルシア：綺麗(きれい)でしたね。\nケンジ：出(で)ている人(ひと)はみんな男(おとこ)の人(ひと)ですよ。\nルシア：本当(ほんとう)ですか。\nケンジ：ええ。ところで、もう昼御飯(ひるごはん)を食(た)べましたか。\nルシア：いいえ、まだ食(た)べていません。\nケンジ：じゃあ、買(か)いに行(い)きましょう。",
+                                             "image":  "intermedio_kabuki.jpg"
+                                         },
+                                         {
+                                             "text":  "Lucía: Fue muy bonito, ¿verdad?\nKenji: Todas las personas que aparecen son hombres.\nLucía: ¿De verdad?\nKenji: Sí. Por cierto, ¿ya comiste?\nLucía: No, todavía no he comido.\nKenji: Entonces, vamos a comprar algo."
+                                         },
+                                         {
+                                             "text":  "\n\n----------------------------------------\n\n"
+                                         },
+                                         {
+                                             "text":  "En el puesto de comida.",
+                                             "image":  "puesto_comida.jpg"
+                                         },
+                                         {
+                                             "text":  "ケンジ：すみません。お弁当(べんとう)を二(ふた)つください。\n店(みせ)の人(ひと)：はい。\nケンジ：それから、お茶(ちゃ)を一(ひと)つとコーヒーを一(ひと)つ。\n店(みせ)の人(ひと)：二千八百円(にせんはっぴゃくえん)です。どうもありがとうございました。"
+                                         },
+                                         {
+                                             "text":  "Kenji: Disculpe. Dos bentō (almuerzos preparados), por favor.\nVendedor: Aquí tienen.\nKenji: Y además, un té y un café.\nVendedor: Son 2.800 yenes. Muchas gracias."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  78,
+                         "title":  "Formas cortas en pasado",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "En japonés, las formas cortas de pasado (estilo informal o directo) se utilizan de manera habitual en conversaciones familiares, entre amigos, y son indispensables para construir oraciones subordinadas, relatos o citas."
+                                         },
+                                         {
+                                             "text":  "1. 動詞 (Verbos)\nEl pasado afirmativo corto de los verbos coincide exactamente con la \u0027forma -ta\u0027 (〜た). El pasado negativo corto se forma cambiando el final 〜ない del presente negativo por 〜なかった.\n\nEjemplos:\n- 読む (Yomu - leer) → 読んだ (Yonda - leyó) / 読まなかった (Yomanakatta - no leyó)\n- 食べる (Taberu - comer) → 食べた (Tabeta - comió) / 食べなかった (Tabenakatta - no comió)"
+                                         },
+                                         {
+                                             "text":  "2. い形容詞 (Adjetivos -い)\nPara el pasado afirmativo, se elimina la -い final y se añade 〜かった. Para el pasado negativo, se elimina la -い de la forma negativa (〜くない) y se añade 〜かった.\n\nEjemplos:\n- かわいい (Kawaii - lindo) → かわいかった (Kawaikatta - fue lindo)\n- 面白い (Omoshiroi - interesante) → 面白かった (Omoshirokatta - fue interesante)"
+                                         },
+                                         {
+                                             "text":  "3. な形容詞 (Adjetivos -な) y 名詞 (Sustantivos)\nTanto los adjetivos -na como los sustantivos funcionan bajo la misma regla en pasado corto: se añade だった para el afirmativo y じゃなかった para el negativo.\n\nEjemplos:\n- 静か (Shizuka - silencioso) → 静かだった (Shizukadatta - fue silencioso)\n- 学生 (Gakusei - estudiante) → 学生だった (Gakuseidatta - era estudiante)"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  79,
+                         "title":  "Cualificar sustantivos con verbos y adjetivos",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "En japonés, las cláusulas u oraciones relativas se colocan siempre justo antes del sustantivo al que modifican. Estas oraciones descriptivas deben terminar obligatoriamente en forma corta."
+                                         },
+                                         {
+                                             "text":  "Ejemplo: 本(ほん)を読(よ)んでいる学生(がくせい)はすずきさんです (La estudiante que está leyendo un libro es Suzuki)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  80,
+                         "title":  "まだ〜ていません",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La estructura まだ + Verbo en forma -te + いません se utiliza para indicar que una acción planificada todavía no se ha realizado (\u0027aún no...\u0027).\n\nEjemplo: 私(わたし)はまだ昼(ひる)御飯(ごはん)を食(た)べていません (Todavía no he almorzado)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  81,
+                         "title":  "〜から",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La partícula から se pospone a una oración para establecer la causa, motivo o razón. Funciona como \u0027porque\u0027 o \u0027ya que\u0027.\n\nEjemplo: 歌舞伎(かぶき)の切符(きっぷ)がありますから、一緒(いっしょ)に行(い)きましょう (Tengo entradas para el kabuki, así que vamos juntos)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  82,
+                         "title":  "Un vistazo a la cultura",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Japón mantiene vivas artes tradicionales como el 歌舞伎(かぶき) (teatro dramático), 能(のう) (teatro lírico con máscaras) y 相撲(すもう) (deporte nacional con raíces religiosas)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  83,
+                         "title":  "Expresiones Útiles - Colores",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Los colores en japonés se dividen en adjetivos -i (黒(くろ)い, 白(しろ)い, 赤(あか)い, etc.) y sustantivos que requieren la partícula の (緑(みどり)の, ピンクの, etc.)."
+                                         }
+                                     ]
+                     }
+                 ]
+}

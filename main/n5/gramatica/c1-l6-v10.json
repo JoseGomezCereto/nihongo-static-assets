@@ -1,0 +1,199 @@
+﻿{
+    "id":  6,
+    "title":  "Lección 6: Un día de actividades",
+    "courseId":  1,
+    "sections":  [
+                     {
+                         "id":  110,
+                         "title":  "Diálogo",
+                         "content":  [
+                                         {
+                                             "text":  "1) En clase de computación.",
+                                             "image":  "clase_profesor.jpg"
+                                         },
+                                         {
+                                             "text":  "山本先生(やまもとせんせい)：カルロスさん、パソコンを使(つか)ってください。\n\nカルロス：……\n\n山本先生(やまもとせんせい)：カルロスさん、寝(ね)てはいけませんよ。\n\nカルロス：先生(せんせい)、パスワードを忘(わす)れました。\n\n山本先生(やまもとせんせい)：ケンジさんの画面(がめん)を見(み)て勉強(べんきょう)してください。"
+                                         },
+                                         {
+                                             "text":  "Profesor Yamamoto: Carlos, por favor, usa el ordenador.\n\nCarlos: ...\n\nProfesor Yamamoto: Carlos, no puedes dormir.\n\nCarlos: Profesor, olvidé la contraseña.\n\nProfesor Yamamoto: Entonces, mira la pantalla de Kenji y estudia."
+                                         },
+                                         {
+                                             "text":  "2) Después de clase.",
+                                             "image":  "clase_ana.jpg"
+                                         },
+                                         {
+                                             "text":  "ケンジ：カルロス、このプログラムは難(むずか)しいですね。\n\nカルロス：本当(ほんとう)ですね。全然(ぜんぜん)わかりません。\n\nアナ：二人(ふたり)は、何(なに)の話(はなし)をしていますか。\n\nルシア：たぶん、ゲームの話(はなし)ですよ。ねえ、アナさん。あとでノートを貸(か)りてもいいですか。\n\nアナ：いいですよ。明日(あした)のテストを一緒(いっしょ)に勉強(べんきょう)しましょう。"
+                                         },
+                                         {
+                                             "text":  "Kenji: Carlos, este programa es difícil, ¿verdad?\n\nCarlos: Es verdad. No entiendo nada.\n\nAna: ¿De qué están hablando ustedes dos?\n\nLucía: Probablemente de juegos. Oye, Ana, ¿puedo pedirte prestado el cuaderno después?\n\nAna: Claro. Estudiemos juntas para el examen de mañana."
+                                         },
+                                         {
+                                             "text":  "3) En el autobús.",
+                                             "image":  "autobus_anciana.jpg"
+                                         },
+                                         {
+                                             "text":  "おばあさん：あの、すみません。このバスは駅(えき)へ行(い)きますか。\n\nケンジ：はい、行(い)きますよ。座(すわ)ってください。\n\nおばあさん：いいえ、大丈夫(だいじょうぶ)です。\n\nカルロス：重(おも)い荷物(にもつ)を持(も)ちましょうか。\n\nおばあさん：ありがとうございます。"
+                                         },
+                                         {
+                                             "text":  "Señora mayor: Disculpe, ¿este autobús va a la estación?\n\nKenji: Sí, va. Por favor, siéntese.\n\nSeñora mayor: No, estoy bien.\n\nCarlos: ¿Quiere que le lleve la bolsa pesada?\n\nSeñora mayor: Muchas gracias."
+                                         }
+                                     ],
+                         "completed":  false
+                     },
+                     {
+                         "id":  111,
+                         "title":  "Usos de la forma TE",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Ahora que conoces la conjugación de la forma て (te), veremos cómo se convierte en la navaja suiza de la gramática japonesa. En esta lección la utilizaremos principalmente para conectar acciones en cadena, pedir cosas de manera educada, solicitar permisos o indicar prohibiciones."
+                                         },
+                                         {
+                                             "text":  "¿Para qué sirve en esta lección?\n\n- Para hacer peticiones educadas: 食(た)べてください (Por favor, come)\n\n- Para pedir permiso: 見(み)てもいいですか (¿Puedo mirar?)\n\n- Para prohibir: ここで写真(しゃしん)を撮(と)ってはいけません (No se pueden sacar fotos aquí)\n\n- Para unir acciones cronológicas: 家(いえ)に帰(かえ)って、勉強(べんきょう)します (Volveré a casa y estudiaré)"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  112,
+                         "title":  "〜てください",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La forma 〜てください (te kudasai) se usa para pedir educadamente a alguien que haga algo. Es la manera estándar y más común de hacer peticiones cotidianas en japonés.",
+                                             "image":  "peticion.jpg"
+                                         },
+                                         {
+                                             "text":  "教科書(きょうかしょ)を読(よ)んでください。\nPor favor, lee el libro de texto.\n\nすみません。ちょっと教(おし)えてください。\nDisculpe, por favor explíqueme un poco."
+                                         },
+                                         {
+                                             "text":  "En contextos muy informales con amigos o familiares, se suele omitir el ください, usando directamente la forma て con entonación de petición:\n\n窓(まど)を開(あ)けて。\nAbre la ventana, ¿vale?"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  113,
+                         "title":  "〜をください",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "A diferencia de 〜てください (que pide una acción), [Sustantivo] + をください (o kudasai) se utiliza para pedir un objeto físico o algo material. Es la frase clave para comprar en tiendas o pedir comida en un restaurante."
+                                         },
+                                         {
+                                             "text":  "これをください。\nPor favor, deme esto.\n\n水(みず)をください。\nPor favor, un poco de agua."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  114,
+                         "title":  "〜てもいいです",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La estructura [Verbo en forma て] + もいいです (mo ii desu) sirve para dar permiso. Si se le añade la partícula か al final, se convierte en la forma ideal para pedir permiso de manera educada."
+                                         },
+                                         {
+                                             "text":  "教科書(きょうかしょ)を見(み)てもいいですか。\n¿Puedo mirar el libro de texto?\n\nはい、見(み)てもいいですよ。\nSí, claro que puedes mirarlo."
+                                         },
+                                         {
+                                             "text":  "En las conversaciones del día a día, si te piden permiso, puedes responder simplemente de forma corta y amable diciendo: いいですよ (¡Adelante! / Está bien)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  115,
+                         "title":  "〜てはいけません",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La estructura [Verbo en forma て] + はいけません (wa ikemasen) se utiliza para indicar una prohibición estricta o expresar que \u0027no está permitido\u0027 hacer algo."
+                                         },
+                                         {
+                                             "text":  "クラスで寝(ね)てはいけません。\nNo se debe dormir en clase.\n\nここで写真(しゃしん)を撮(と)取ってはいけません。\nNo se pueden sacar fotos aquí."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  116,
+                         "title":  "Conectar acciones con la forma TE",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "En japonés no se usa la partícula と (to) para unir verbos en una misma oración. En su lugar, dejamos el primer verbo en forma て para actuar como un \u0027y\u0027 de secuencia, mientras que el último verbo de la frase define el tiempo verbal (presente o pasado)."
+                                         },
+                                         {
+                                             "text":  "ノートを借(か)りて、コピーします。\nVoy a pedir prestado el cuaderno y a hacer una fotocopia.\n\n今日(きょう)は、六時(ろくじ)に起(お)きて、勉強(べんきょう)しました。\nHoy me levanté a las seis y estudié."
+                                         },
+                                         {
+                                             "text":  "También funciona para conectar disculpas o motivos cotidianos:\n\n教科書(きょうかしょ)を忘(わす)れして、すみません。\nPerdón por haber olvidado el libro de texto (Me olvidé el libro y lo siento)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  117,
+                         "title":  "Justificación con 〜から",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La partícula から (kara) se utiliza para indicar la causa o razón. En japonés existen dos formas principales de usarla según el contexto:\n\n1. Estructura causal estándar: [Razón] + から, [Situación/Acción]. Es la forma lógica de conectar una causa con un resultado.\n\n2. Justificación conversacional (explicación añadida): [Acción] + [Razón] + から。En el lenguaje hablado, es sumamente común decir primero la situación principal y luego añadir la razón al final. Es una herramienta de cortesía y fluidez muy natural."
+                                         },
+                                         {
+                                             "text":  "Ejemplos:\n\n明日(あした)テストがありますから、今晩(こんばん)勉強(べんきょう)します。\nComo mañana hay examen, estudiaré esta noche. (Estructura estándar).\n\nバスに乗(の)りましょう。タクシーは高(たか)いですから。\nVamos en autobús. Es que el taxi es caro. (Explicación añadida).\n\n傘(かさ)を貸(か)しましょうか。雨(あめ)ですから。\n¿Te presto un paraguas? Es que está lloviendo."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  118,
+                         "title":  "Invitaciones y Cooperación Social",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Para interactuar de forma natural y cooperar con otras personas en japonés, utilizamos tres estructuras clave basadas en la raíz de la forma ます:"
+                                         },
+                                         {
+                                             "text":  "1. 〜ませんか (¿Por qué no...?)\nEs la forma más educada de invitar a alguien, ya que deja espacio para que la otra persona pueda rechazar la propuesta sin sentirse presionada. Se suele acompañar de 一緒(いっしょ)に (issho ni - juntos).\n\n一緒(いっしょ)に昼ご飯(ひるごはん)を食(た)べませんか。\n¿Por qué no almorzamos juntos?\n\n2. 〜ましょう (¡Hagamos...!)\nSe usa para proponer una acción conjunta de manera entusiasta cuando sabemos que la otra persona está de acuerdo.\n\nじゃあ、勉強(べんきょう)しましょう。\n¡Bien, entonces estudiemos!"
+                                         },
+                                         {
+                                             "text":  "3. 〜ましょうか (¿Te ayudo a...? / ¿Hacemos...?)\nDependiendo del contexto, puede ofrecer ayuda voluntaria de manera amable o sugerir un plan colectivo esperando la aprobación del otro.\n\n荷物(にもつ)を持(も)ちましょうか。\n¿Te ayudo a llevar las bolsas?\n\n駅(えき)へ行(い)きましょうか。\n¿Vamos hacia la estación?"
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  119,
+                         "title":  "Expresiones Útiles: Direcciones",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "Direcciones y orientación básica:\n\nまっすぐ行(い)く (massugu iku): Ir recto\n左(ひだり)に曲(ま)がる (hidari ni magaru): Girar a la izquierda\n右(みぎ)に曲(ま)がる (migi ni magaru): Girar a la derecha\n道(みち)を渡(わた)る (michi o wataru): Cruzar la calle\n二(ふた)つ目(め)の角(かど)を左(ひだり)に曲(ま)がる (futatsu me no kado o hidari ni magaru): Girar a la izquierda en la segunda esquina\n道(みち)の左側(ひだりがわ) (michi no hidari gawa): Lado izquierdo de la calle\n北(きた) / 南(みなみ) / 東(ひがし) / 西(にし): Norte / Sur / Este / Oeste",
+                                             "image":  "direcciones.jpg"
+                                         },
+                                         {
+                                             "text":  "Ejemplo de diálogo en la calle:\n\nA: すみません。郵便局(ゆうびんきょく)はどこですか。\nDisculpe, ¿dónde está la oficina de correos?\n\nB: まっすぐ行(い)って、三(み)っつ目(め)の角(かど)を右(みぎ)に曲(ま)がってください。右側(みぎがわ)にありますよ。\nVaya recto y, por favor, gire a la derecha en la tercera esquina. Está en el lado derecho.\n\nA: どうもありがとうございます。\nMuchas gracias."
+                                         },
+                                         {
+                                             "text":  "Uso de 遅(おそ)い (osoi) y 遅(おそ)く (osoku):\n\n遅(おそ)い es un adjetivo (tarde/lento) para calificar cosas, mientras que 遅(おそ)く es su forma adverbial para modificar acciones:\n\nきのう、遅(おそ)く寝(ね)ました。\nAyer me acosté tarde."
+                                         },
+                                         {
+                                             "text":  "El prefijo de cortesía お (o-):\n\nSe añade al principio de ciertas palabras tradicionales o cotidianas como お酒(さけ) (osake), お金(かね) (okane) u お祭(まつ)り (omatsuri) para darles un toque elegante, suave y respetuoso."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  120,
+                         "title":  "Un vistazo a la cultura",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "El sistema educativo japonés\n\nEn Japón, la educación obligatoria dura 9 años (6 de primaria y 3 de secundaria básica). Aun así, más del 95% de los alumnos decide continuar tres años más en el bachillerato. La competitividad es alta y el acceso a buenas instituciones depende casi siempre de exigentes exámenes de ingreso.",
+                                             "image":  "sistema_educativo.jpg"
+                                         },
+                                         {
+                                             "text":  "A diferencia de la mayoría de países de Occidente, el año escolar en Japón comienza en abril (しがつ) y termina en marzo (さんがつ) del año siguiente, dividiéndose tradicionalmente en tres trimestres."
+                                         },
+                                         {
+                                             "text":  "Estructura de niveles:\n\n- 小学校(しょうがっこう - Primaria): 6 años\n- 中学校(ちゅうがっこう - Secundaria): 3 años\n- 高等学校(こうとうがっこう - Bachillerato): 3 años\n- 大学(だいがく - Universidad): 4 años"
+                                         }
+                                     ]
+                     }
+                 ],
+    "completed":  false
+}
