@@ -6,11 +6,11 @@
     "sections":  [
                      {
                          "id":  21,
-                         "title":  "Diálogo:",
+                         "title":  "Diálogo",
                          "completed":  false,
                          "content":  [
                                          {
-                                             "text":  "1) Lucía y Kenji miran un plano en el campus antes de salir a pasar la tarde por Tokio.",
+                                             "text":  "Lucía y Kenji miran un plano en el campus antes de salir a pasar la tarde por Tokio.",
                                              "image":  "dialogo_fin_de_semana.jpg"
                                          },
                                          {
@@ -18,7 +18,7 @@
                                              "image":  "dialogo_fin_de_semana.jpg"
                                          },
                                          {
-                                             "text":  "2) Por la mañana, en la entrada de la Shared House donde vive Lucía.",
+                                             "text":  "Por la mañana, en la entrada de la Shared House donde vive Lucía.",
                                              "image":  "casa_familia_acogida.jpg"
                                          },
                                          {
@@ -110,7 +110,7 @@
                      },
                      {
                          "id":  28,
-                         "title":  "Un Vistazo a la Cultura",
+                         "title":  "Un vistazo a la cultura",
                          "completed":  false,
                          "content":  [
                                          {

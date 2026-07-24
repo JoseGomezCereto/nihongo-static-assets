@@ -10,7 +10,7 @@
                          "completed":  false,
                          "content":  [
                                          {
-                                             "text":  "I) En clase.",
+                                             "text":  "En clase.",
                                              "image":  "barbacoa_clase.jpg"
                                          },
                                          {
@@ -23,7 +23,7 @@
                                              "text":  "\n\n----------------------------------------\n\n"
                                          },
                                          {
-                                             "text":  "II) Carlos cocina el asado al aire libre.",
+                                             "text":  "Carlos cocina el asado al aire libre.",
                                              "image":  "barbacoa_cocina.jpg"
                                          },
                                          {

@@ -6,7 +6,7 @@
     "sections":  [
                      {
                          "id":  11,
-                         "title":  "Diálogo:",
+                         "title":  "Diálogo",
                          "completed":  false,
                          "content":  [
                                          {
@@ -75,7 +75,7 @@
                      },
                      {
                          "id":  20,
-                         "title":  "Un Vistazo a la Cultura",
+                         "title":  "Un vistazo a la cultura",
                          "completed":  false,
                          "content":  [
                                          {

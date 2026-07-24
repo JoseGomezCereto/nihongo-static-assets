@@ -8,7 +8,7 @@
                          "title":  "Diálogo",
                          "content":  [
                                          {
-                                             "text":  "1) En clase de computación.",
+                                             "text":  "En clase de computación.",
                                              "image":  "clase_profesor.jpg"
                                          },
                                          {
@@ -18,7 +18,7 @@
                                              "text":  "Profesor Yamamoto: Carlos, por favor, usa el ordenador.\n\nCarlos: ...\n\nProfesor Yamamoto: Carlos, no puedes dormir.\n\nCarlos: Profesor, olvidé la contraseña.\n\nProfesor Yamamoto: Entonces, mira la pantalla de Kenji y estudia."
                                          },
                                          {
-                                             "text":  "2) Después de clase.",
+                                             "text":  "Después de clase.",
                                              "image":  "clase_ana.jpg"
                                          },
                                          {
@@ -28,7 +28,7 @@
                                              "text":  "Kenji: Carlos, este programa es difícil, ¿verdad?\n\nCarlos: Es verdad. No entiendo nada.\n\nAna: ¿De qué están hablando ustedes dos?\n\nLucía: Probablemente de juegos. Oye, Ana, ¿puedo pedirte prestado el cuaderno después?\n\nAna: Claro. Estudiemos juntas para el examen de mañana."
                                          },
                                          {
-                                             "text":  "3) En el autobús.",
+                                             "text":  "En el autobús.",
                                              "image":  "autobus_anciana.jpg"
                                          },
                                          {

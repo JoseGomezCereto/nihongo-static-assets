@@ -3,83 +3,83 @@
   "files": [
     {
       "nombre": "leccion 0.json",
-      "ruta": "main/n5/gramatica/c1-l0-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 0.json",
+      "version": "1.0"
     },
     {
       "nombre": "leccion 1.json",
-      "ruta": "main/n5/gramatica/c1-l1-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 1.json",
+      "version": "1.0"
     },
     {
       "nombre": "leccion 2.json",
-      "ruta": "main/n5/gramatica/c1-l2-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 2.json",
+      "version": "1.0"
     },
     {
       "nombre": "leccion 3.json",
-      "ruta": "main/n5/gramatica/c1-l3-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 3.json",
+      "version": "1.0"
     },
     {
       "nombre": "leccion 4.json",
-      "ruta": "main/n5/gramatica/c1-l4-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 4.json",
+      "version": "1.0"
     },
     {
       "nombre": "leccion 5.json",
-      "ruta": "main/n5/gramatica/c1-l5-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 5.json",
+      "version": "1.0"
     },
     {
       "nombre": "leccion 6.json",
-      "ruta": "main/n5/gramatica/c1-l6-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 6.json",
+      "version": "1.0"
     },
     {
       "nombre": "leccion 7.json",
-      "ruta": "main/n5/gramatica/c1-l7-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 7.json",
+      "version": "1.0"
     },
     {
       "nombre": "leccion 8.json",
-      "ruta": "main/n5/gramatica/c1-l8-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 8.json",
+      "version": "1.0"
     },
     {
       "nombre": "leccion 9.json",
-      "ruta": "main/n5/gramatica/c1-l9-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 9.json",
+      "version": "1.0"
     },
     {
       "nombre": "leccion 10.json",
-      "ruta": "main/n5/gramatica/c1-l10-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 10.json",
+      "version": "1.0"
     },
     {
       "nombre": "leccion 11.json",
-      "ruta": "main/n5/gramatica/c1-l11-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 11.json",
+      "version": "1.0"
     },
     {
       "nombre": "leccion 12.json",
-      "ruta": "main/n5/gramatica/c1-l12-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 12.json",
+      "version": "1.0"
     },
     {
       "nombre": "silabarios.json",
       "ruta": "main/n5/silabarios/silabarios.json",
-      "version": 1
+      "version": "1.0"
     },
     {
       "nombre": "vocabulario.json",
       "ruta": "main/n5/vocabulario/vocabulario.json",
-      "version": 1
+      "version": "1.0"
     },
     {
       "nombre": "kanji.json",
       "ruta": "main/n5/kanji/kanji.json",
-      "version": 1
+      "version": "1.0"
     }
   ]
 }

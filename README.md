@@ -55,23 +55,23 @@ Ejemplo simplificado:
   "files": [
     {
       "nombre": "leccion 3.json",
-      "ruta": "main/n5/gramatica/c1-l3-v10.json",
-      "version": 10
+      "ruta": "main/n5/gramatica/lecciones/leccion 3.json",
+      "version": "1.0"
     },
     {
       "nombre": "vocabulario.json",
       "ruta": "main/n5/vocabulario/vocabulario.json",
-      "version": 1
+      "version": "1.0"
     },
     {
       "nombre": "kanji.json",
       "ruta": "main/n5/kanji/kanji.json",
-      "version": 1
+      "version": "1.0"
     },
     {
       "nombre": "silabarios.json",
       "ruta": "main/n5/silabarios/silabarios.json",
-      "version": 1
+      "version": "1.0"
     }
   ]
 }

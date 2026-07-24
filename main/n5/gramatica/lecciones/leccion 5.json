@@ -10,7 +10,7 @@
                          "completed":  false,
                          "content":  [
                                          {
-                                             "text":  "1) Carlos y Kenji están de vacaciones disfrutando del mar cristalino.",
+                                             "text":  "Carlos y Kenji están de vacaciones disfrutando del mar cristalino.",
                                              "image":  "okinawa.jpg"
                                          },
                                          {
@@ -20,7 +20,7 @@
                                              "text":  "Carlos: ¡Vaya, qué mar tan bonito! Ahora mismo hay mucha gente nadando.\n\nKenji: Es verdad. Carlos, ¿es tu primera vez viniendo a la playa después de hacer turismo en Kioto?\n\nCarlos: No, es mi primera vez en Okinawa. Como siempre había querido venir, estoy muy feliz.\n\nKenji: Qué bien. Entonces, después de entrar al mar, hagamos surf."
                                          },
                                          {
-                                             "text":  "2) Más tarde, en la playa cerca de una tienda de alquiler.",
+                                             "text":  "Más tarde, en la playa cerca de una tienda de alquiler.",
                                              "image":  "okinawa_surf.jpg"
                                          },
                                          {
@@ -30,7 +30,7 @@
                                              "text":  "Kenji: Allí están preparados los tableros. Como tienen nuestros nombres escritos, usemos esos.\n\nCarlos: Muchas gracias. El viento se está volviendo fuerte poco a poco, ¿verdad?\n\nKenji: Sí, ¡las olas se van a poner buenas! Carlos, ¿te gusta más el surf que visitar los templos de Kioto?\n\nCarlos: Sí, pero no lo he practicado mucho últimamente, así que ahora estoy un poco nervioso."
                                          },
                                          {
-                                             "text":  "3) En la oficina de correos, enviando recuerdos de ambos viajes.",
+                                             "text":  "En la oficina de correos, enviando recuerdos de ambos viajes.",
                                              "image":  "omiyage_okinawa.jpg"
                                          },
                                          {
@@ -40,7 +40,7 @@
                                              "text":  "Carlos: Disculpe, esta postal es un recuerdo de ambos lugares, Kioto y Okinawa. ¿Cuánto cuesta hasta España?\n\nEmpleado: Son 100 yenes.\n\nCarlos: Bien, entonces la enviaré después de pegarle el sello. Allí está escrito \u0027Para España\u0027, ¿verdad?\n\nEmpleado: Sí, por favor colóquela ahí."
                                          },
                                          {
-                                             "text":  "4) El lunes, de vuelta en la escuela de idiomas.",
+                                             "text":  "El lunes, de vuelta en la escuela de idiomas.",
                                              "image":  "mar_okinawa.jpg"
                                          },
                                          {
