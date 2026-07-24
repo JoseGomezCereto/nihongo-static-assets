@@ -128,6 +128,22 @@
                                      ]
                      },
                      {
+                         "id":  121,
+                         "title":  "Acciones simultáneas: 〜ながら",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La estructura 〜ながら conecta dos acciones cuando una ocurre al mismo tiempo que la otra. Se forma con la raíz del verbo + ながら, y la acción principal va al final de la oración."
+                                         },
+                                         {
+                                             "text":  "音楽(おんがく)を聞(き)きながら勉強(べんきょう)します。\nEstudio mientras escucho música.\n\n地図(ちず)を見(み)ながら駅(えき)まで歩(ある)きました。\nCaminé hasta la estación mientras miraba el mapa。"
+                                         },
+                                         {
+                                             "text":  "Diferencia clave:\n- 〜てから: primero A, luego B (secuencia)\n- 〜ながら: A y B al mismo tiempo (simultaneidad)"
+                                         }
+                                     ]
+                     },
+                     {
                          "id":  92,
                          "title":  "Un vistazo a la cultura",
                          "completed":  false,

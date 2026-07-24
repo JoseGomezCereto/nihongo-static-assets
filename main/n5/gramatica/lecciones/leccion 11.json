@@ -11,7 +11,7 @@
                         "audio":  "",
                          "content":  [
                                          {
-                                             "text":  "Suzuki y Lucía se encuentran después de las vacaciones."
+                                             "text":  "I) Suzuki y Lucía se encuentran después de las vacaciones."
                                          },
                                          {
                                              "text":  "すずき：ルシアさん、久(ひさ)しぶりですね。休(やす)みはどうでしたか。\n\nルシア：すごく楽(たの)しかったです。韓国(かんこく)で買(か)い物(もの)をしたり、韓国料理(りょうり)を食(た)べたりしました。\n\nすずき：いいですね。私(わたし)も旅行(りょこう)したいです。\n\nルシア：すずきさんの休(やす)みは楽(たの)しかったですか。\n\nすずき：まあまあでした。一日(いちにち)だけドライブに行(い)きましたが、毎日(まいにち)アルバイトをしていました。",
@@ -21,7 +21,7 @@
                                              "text":  "Suzuki: Lucía, ¡cuánto tiempo! ¿Qué tal las vacaciones?\n\nLucía: Fueron muy divertidas. Fui de compras en Corea y probé comida coreana.\n\nSuzuki: ¡Qué bien! Yo también quiero viajar.\n\nLucía: ¿Y tus vacaciones, Suzuki?\n\nSuzuki: Más o menos. Solo fui a dar una vuelta en coche un día, pero estuve trabajando a tiempo parcial todos los días."
                                          },
                                          {
-                                             "text":  "En clase, Lucía presenta a Suzuki a un nuevo compañero."
+                                             "text":  "II) En clase, Lucía presenta a Suzuki a un nuevo compañero."
                                          },
                                          {
                                              "text":  "ルシア：すずきさん、友(とも)だちを紹介(しょうかい)します。こちらはジョンさんです。\n\nジョンさんは先月(せんげつ)、日本(にほん)に来(き)ました。\n\nジョン：初(はじ)めまして。\n\nすずき：初(はじ)めまして、山川(やまかわ)すずきです。",
@@ -31,7 +31,7 @@
                                              "text":  "Lucía: Suzuki, te presento a un amigo. Este es John. Llegó a Japón el mes pasado.\n\nJohn: Encantado de conocerte.\n\nSuzuki: Encantada, soy Suzuki Yamakawa."
                                          },
                                          {
-                                             "text":  "Suzuki y John conversan sobre sus lugares de origen."
+                                             "text":  "III) Suzuki y John conversan sobre sus lugares de origen."
                                          },
                                          {
                                              "text":  "すずき：ジョンさん、出身(しゅっしん)はどこですか。\n\nジョン：オーストラリアのケアンズです。\n\nすずき：そうですか。\n\nジョン：すずきさんはケアンズに行(い)ったことがありますか。\n\nすずき：いいえ、ありません。\n\nジョン：山(やま)や海(うみ)があって、きれいな所(ところ)ですよ。グレートバリアリーフで有名(ゆうめい)です。"
@@ -156,6 +156,38 @@
                                          },
                                          {
                                              "text":  "Resumen:\n- Sustantivo A や Sustantivo B: A y B, por ejemplo (puede haber más elementos no mencionados)."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  121,
+                         "title":  "Contraste inesperado: 〜のに",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La partícula 〜のに expresa contraste con sorpresa, frustración o contradicción entre dos hechos. Se traduce como \"aunque\", \"a pesar de que\" o \"y sin embargo\" según el contexto."
+                                         },
+                                         {
+                                             "text":  "日本語(にほんご)を毎日(まいにち)勉強(べんきょう)しているのに、まだ話(はな)すのが難(むずか)しいです。\nAunque estudio japonés cada día, todavía me cuesta hablarlo。\n\n薬(くすり)を飲(の)んだのに、熱(ねつ)が下(さ)がりません。\nAunque tomé medicina, la fiebre no baja。"
+                                         },
+                                         {
+                                             "text":  "A diferencia de けど/けれども, 〜のに suele implicar un matiz emocional de \"no era lo esperado\"."
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  122,
+                         "title":  "Ejemplificación por semejanza: 〜のような",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La estructura 〜のような se usa para decir \"como...\" cuando un sustantivo tiene características parecidas a otra cosa."
+                                         },
+                                         {
+                                             "text":  "雪(ゆき)のような白(しろ)い花(はな)ですね。\nEs una flor blanca como la nieve。\n\n先生(せんせい)のような話(はな)し方(かた)ですね。\nHablas como un profesor。"
+                                         },
+                                         {
+                                             "text":  "Patrón útil:\n- [Sustantivo] + のような + [Sustantivo]\n- [Sustantivo] + のように + [Verbo]"
                                          }
                                      ]
                      },

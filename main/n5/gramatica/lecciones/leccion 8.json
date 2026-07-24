@@ -11,7 +11,7 @@
                         "audio":  "",
                          "content":  [
                                          {
-                                             "text":  "En clase.",
+                                             "text":  "I) En clase.",
                                              "image":  "barbacoa_clase.jpg"
                                          },
                                          {
@@ -24,7 +24,7 @@
                                              "text":  "\n\n----------------------------------------\n\n"
                                          },
                                          {
-                                             "text":  "Carlos cocina el asado al aire libre.",
+                                             "text":  "II) Carlos cocina el asado al aire libre.",
                                              "image":  "barbacoa_cocina.jpg"
                                          },
                                          {

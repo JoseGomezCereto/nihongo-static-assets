@@ -186,6 +186,22 @@
                                      ]
                      },
                      {
+                         "id":  121,
+                         "title":  "Duda personal en voz baja: 〜かな",
+                         "completed":  false,
+                         "content":  [
+                                         {
+                                             "text":  "La partícula final かな expresa duda, reflexión o pregunta dirigida a uno mismo de manera suave. Es muy frecuente en habla cotidiana para pensar en voz alta."
+                                         },
+                                         {
+                                             "text":  "明日(あした)、雨(あめ)かな。\nMe pregunto si mañana lloverá。\n\nこの薬(くすり)で大丈夫(だいじょうぶ)かな。\n¿Estaré bien con esta medicina...?"
+                                         },
+                                         {
+                                             "text":  "Matiz:\n- かな: duda interna / pensamiento personal\n- でしょうか: duda más formal o consulta educada"
+                                         }
+                                     ]
+                     },
+                     {
                          "id":  108,
                          "title":  "Un vistazo a la cultura",
                          "completed":  false,
