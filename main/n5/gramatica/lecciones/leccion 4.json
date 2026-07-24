@@ -8,6 +8,7 @@
                          "id":  32,
                          "title":  "Diálogo",
                          "completed":  false,
+                        "audio":  "",
                          "content":  [
                                          {
                                              "text":  "Lucía va al centro de la ciudad y pregunta a un transeúnte.",

@@ -8,6 +8,7 @@
                          "id":  101,
                          "title":  "Diálogo",
                          "completed":  false,
+                        "audio":  "",
                          "content":  [
                                          {
                                              "text":  "En la escuela."

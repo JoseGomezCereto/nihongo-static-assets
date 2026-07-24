@@ -8,6 +8,7 @@
                          "id":  77,
                          "title":  "Diálogo",
                          "completed":  false,
+                        "audio":  "",
                          "content":  [
                                          {
                                              "text":  "Lucía y Kenji están hablando."

@@ -8,6 +8,7 @@
                          "id":  67,
                          "title":  "Diálogo",
                          "completed":  false,
+                        "audio":  "",
                          "content":  [
                                          {
                                              "text":  "En clase.",

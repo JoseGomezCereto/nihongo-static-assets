@@ -6,6 +6,7 @@
                          "id":  60,
                          "title":  "Diálogo",
                          "completed":  false,
+                        "audio":  "",
                          "content":  [
                                          {
                                              "text":  "Lucía enseña a Ana fotos de sus amigos en España.",

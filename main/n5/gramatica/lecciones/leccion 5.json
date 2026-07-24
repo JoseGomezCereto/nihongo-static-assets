@@ -8,6 +8,7 @@
                          "id":  43,
                          "title":  "Diálogo",
                          "completed":  false,
+                        "audio":  "",
                          "content":  [
                                          {
                                              "text":  "Carlos y Kenji están de vacaciones disfrutando del mar cristalino.",
