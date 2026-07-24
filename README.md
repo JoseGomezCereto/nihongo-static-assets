@@ -51,13 +51,29 @@ Ejemplo simplificado:
 
 ```json
 {
-  "manifest_version": 1,
-  "files": {
-    "c1-l3-v10": "main/n5/gramatica/c1-l3-v10.json",
-    "vocabulario_n5": "main/n5/vocabulario/vocabulario.json",
-    "kanji_n5": "main/n5/kanji/kanji.json",
-    "silabarios_n5": "main/n5/silabarios/silabarios.json"
-  }
+  "manifest_version": 2,
+  "files": [
+    {
+      "nombre": "leccion 3.json",
+      "ruta": "main/n5/gramatica/c1-l3-v10.json",
+      "version": 10
+    },
+    {
+      "nombre": "vocabulario.json",
+      "ruta": "main/n5/vocabulario/vocabulario.json",
+      "version": 1
+    },
+    {
+      "nombre": "kanji.json",
+      "ruta": "main/n5/kanji/kanji.json",
+      "version": 1
+    },
+    {
+      "nombre": "silabarios.json",
+      "ruta": "main/n5/silabarios/silabarios.json",
+      "version": 1
+    }
+  ]
 }
 ```
 
@@ -68,8 +84,9 @@ Ejemplo simplificado:
 
 Recomendacion:
 
-- Mantener keys estables cuando sea posible.
-- Versionar en el nombre de archivo (`...-v10.json`, `...-v11.json`) para invalidacion clara de cache.
+- Mantener `nombre` estable cuando sea posible.
+- Versionar en `ruta` cuando haga falta invalidacion clara de cache.
+- Usar `version` para detectar diferencias entre manifest local y remoto y decidir que asset descargar.
 
 ## Flujo de trabajo recomendado
 
